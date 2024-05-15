@@ -11,8 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "connect-sqlite": "^0.0.1",
+    "connect-sqlite3": "^0.9.13",
     "cors": "^2.8.5",
     "express": "^4.19.1",
-    "mongoose": "^8.2.3"
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0"
   }
 }
