@@ -2,11 +2,16 @@
 const express = require("express");
 const server = express();
 const mongoose = require("mongoose");
+const cors = require("cors");
+
 const { createProduct } = require("./controller/Product.js");
 const productsRouter = require("./routes/Product.js");
 const categoriesRouter = require("./routes/Category.js");
 const brandsRouter = require("./routes/Brand.js");
-const cors = require("cors");
+const usersRouter = require("./routes/User.js");
+const authRouter = require("./routes/Auth.js");
+const cartRouter = require("./routes/Cart");
+const ordersRouter = require("./routes/Order");
 //midleware
 server.use(cors({
   exposedHeaders:['X-Total-Count']
@@ -15,6 +20,10 @@ server.use(express.json()); //to parse req.body
 server.use('/products', productsRouter.router);
 server.use('/categories', categoriesRouter.router);
 server.use('/brands', brandsRouter.router);
+server.use('/user', usersRouter.router);
+server.use('/auth', authRouter.router);
+server.use('/cart', cartRouter.router)
+server.use('/orders', ordersRouter.router)
 //database connection
 main().catch((err) => console.log(err));
 async function main() {
