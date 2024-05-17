@@ -1,10 +1,10 @@
 import React, { useState, Fragment } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { increment, incrementAsync, selectCount } from './productListSlice';
+import { increment, incrementAsync, selectCount } from '../productSlice';
 import { Dialog, Disclosure, Menu, Transition } from '@headlessui/react';
 import { XMarkIcon } from '@heroicons/react/24/outline';
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/20/solid'
-
+import { Link } from 'react-router-dom';
 import {
   ChevronDownIcon,
   FunnelIcon,
@@ -217,7 +217,7 @@ export default function ProductList() {
         <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-baseline justify-between border-b border-gray-200 pb-6 pt-24">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900">
-              PangeaMart-A Marketplace That Brings Together Diverse Products
+              All Products
             </h1>
 
             <div className="flex items-center">
