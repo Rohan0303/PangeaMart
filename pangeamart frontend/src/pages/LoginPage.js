@@ -1,4 +1,4 @@
-import Login from "../features/auth/Components/Login.js";
+import Login from "../features/auth/components/Login";
 function LoginPage() {
     return ( <div>
         <Login></Login>

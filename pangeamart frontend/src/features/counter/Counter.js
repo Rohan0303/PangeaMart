@@ -6,7 +6,6 @@ import {
   selectCount,
 } from './counterSlice';
 
-
 export default function Counter() {
   const count = useSelector(selectCount);
   const dispatch = useDispatch();
@@ -15,6 +14,8 @@ export default function Counter() {
   return (
     <div>
       <div>
+      
+       
       </div>
     </div>
   );
