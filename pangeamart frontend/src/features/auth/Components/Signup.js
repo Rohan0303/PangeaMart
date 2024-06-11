@@ -42,6 +42,7 @@ export default function Signup() {
                   password: data.password,
                   addresses: [],
                   role:'user'
+                  
                 })
               );
               console.log(data);

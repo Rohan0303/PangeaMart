@@ -7,6 +7,7 @@ export function createUser(userData) {
       headers: { 'content-type': 'application/json' },
     });
     const data = await response.json();
+   
     resolve({ data });
   });
 }
@@ -30,6 +31,7 @@ export function loginUser(loginInfo) {
       reject( error );
     }
 
+   
   });
 }
 
@@ -48,6 +50,7 @@ export function checkAuth() {
       reject( error );
     }
 
+   
   });
 }
 
@@ -68,8 +71,6 @@ export function signOut(userId) {
     }
   });
 }
-
-
 export function resetPasswordRequest(email) {
   return new Promise(async (resolve, reject) => {
     try {

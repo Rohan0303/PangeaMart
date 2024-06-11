@@ -41,7 +41,7 @@ export default function ResetPassword() {
             onSubmit={handleSubmit((data) => {
               console.log(data);
               dispatch(resetPasswordAsync({email, token, password:data.password}))
-              
+
             })}
             className="space-y-6"
           >

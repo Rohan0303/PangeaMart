@@ -1,0 +1,22 @@
+/* src/App.css */
+.chat-window {
+    border: 1px solid #ccc;
+    height: 400px;
+    overflow-y: scroll;
+    padding: 10px;
+  }
+  
+  .message {
+    margin: 5px 0;
+  }
+  
+  .message.user {
+    text-align: right;
+    background-color: #f1f1f1;
+  }
+  
+  .message.bot {
+    text-align: left;
+    background-color: #e1e1e1;
+  }
+  
