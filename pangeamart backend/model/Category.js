@@ -1,17 +1,16 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
-//schema creation
-const categorySchema = Schema({
-  label: { type: String, required: true, unique: true},
-  value: { type: String, required: true, unique: true},
+const categorySchema = new Schema({
+  label: { type: String, required: true, unique: true },
+  value: { type: String, required: true, unique: true },
 });
 
-const virtual = categorySchema.virtual("id");
+const virtual = categorySchema.virtual('id');
 virtual.get(function () {
   return this._id;
 });
-categorySchema.set("toJSON", {
+categorySchema.set('toJSON', {
   virtuals: true,
   versionKey: false,
   transform: function (doc, ret) {
@@ -19,5 +18,4 @@ categorySchema.set("toJSON", {
   },
 });
 
-// export model
-exports.Category = mongoose.model("Category", categorySchema);
+exports.Category = mongoose.model('Category', categorySchema);

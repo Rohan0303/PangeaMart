@@ -4,39 +4,38 @@
       "id": 1,
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
-      "price": 993,
+      "price": 549,
       "discountPercentage": 12.96,
-      "rating": 0,
-      "stock": 0,
+      "rating": 4.69,
+      "stock": 94,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/1/1.jpg",
-        "https://i.dummyjson.com/data/products/1/2.jpg",
-        "https://i.dummyjson.com/data/products/1/3.jpg",
-        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
-      ],
-      "deleted": true
+        "https://cdn.dummyjson.com/product-images/1/1.jpg",
+        "https://cdn.dummyjson.com/product-images/1/2.jpg",
+        "https://cdn.dummyjson.com/product-images/1/3.jpg",
+        "https://cdn.dummyjson.com/product-images/1/4.jpg",
+        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      ]
     },
     {
       "id": 2,
       "title": "iPhone X",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 1111,
+      "price": 899,
       "discountPercentage": 17.94,
-      "rating": 0,
+      "rating": 4.44,
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-      ],
-      "deleted": true
+        "https://cdn.dummyjson.com/product-images/2/1.jpg",
+        "https://cdn.dummyjson.com/product-images/2/2.jpg",
+        "https://cdn.dummyjson.com/product-images/2/3.jpg",
+        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+      ]
     },
     {
       "id": 3,
@@ -48,28 +47,28 @@
       "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ],
-      "deleted": true
+        "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      ]
     },
     {
       "id": 4,
       "title": "OPPOF19",
       "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 300,
+      "price": 280,
       "discountPercentage": 17.91,
-      "rating": 0,
+      "rating": 4.3,
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/4/1.jpg",
+        "https://cdn.dummyjson.com/product-images/4/2.jpg",
+        "https://cdn.dummyjson.com/product-images/4/3.jpg",
+        "https://cdn.dummyjson.com/product-images/4/4.jpg",
+        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
       ]
     },
     {
@@ -82,29 +81,29 @@
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
+        "https://cdn.dummyjson.com/product-images/5/1.jpg",
+        "https://cdn.dummyjson.com/product-images/5/2.jpg",
+        "https://cdn.dummyjson.com/product-images/5/3.jpg"
       ]
     },
     {
       "id": 6,
       "title": "MacBook Pro",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1999,
+      "price": 1749,
       "discountPercentage": 11.02,
-      "rating": 0,
+      "rating": 4.57,
       "stock": 83,
       "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
       "images": [
-        "https://i.dummyjson.com/data/products/6/1.png",
-        "https://i.dummyjson.com/data/products/6/2.jpg",
-        "https://i.dummyjson.com/data/products/6/3.png",
-        "https://i.dummyjson.com/data/products/6/thumbnail.png"
+        "https://cdn.dummyjson.com/product-images/6/1.png",
+        "https://cdn.dummyjson.com/product-images/6/2.jpg",
+        "https://cdn.dummyjson.com/product-images/6/3.png",
+        "https://cdn.dummyjson.com/product-images/6/4.jpg"
       ]
     },
     {
@@ -117,12 +116,12 @@
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/7/1.jpg",
-        "https://i.dummyjson.com/data/products/7/2.jpg",
-        "https://i.dummyjson.com/data/products/7/3.jpg",
-        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/7/1.jpg",
+        "https://cdn.dummyjson.com/product-images/7/2.jpg",
+        "https://cdn.dummyjson.com/product-images/7/3.jpg",
+        "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
       ]
     },
     {
@@ -135,13 +134,13 @@
       "stock": 68,
       "brand": "Microsoft Surface",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/8/1.jpg",
+        "https://cdn.dummyjson.com/product-images/8/2.jpg",
+        "https://cdn.dummyjson.com/product-images/8/3.jpg",
+        "https://cdn.dummyjson.com/product-images/8/4.jpg",
+        "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
       ]
     },
     {
@@ -154,13 +153,13 @@
       "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/9/1.jpg",
-        "https://i.dummyjson.com/data/products/9/2.png",
-        "https://i.dummyjson.com/data/products/9/3.png",
-        "https://i.dummyjson.com/data/products/9/4.jpg",
-        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/9/1.jpg",
+        "https://cdn.dummyjson.com/product-images/9/2.png",
+        "https://cdn.dummyjson.com/product-images/9/3.png",
+        "https://cdn.dummyjson.com/product-images/9/4.jpg",
+        "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
       ]
     },
     {
@@ -173,12 +172,12 @@
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
       "images": [
-        "https://i.dummyjson.com/data/products/10/1.jpg",
-        "https://i.dummyjson.com/data/products/10/2.jpg",
-        "https://i.dummyjson.com/data/products/10/3.jpg",
-        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+        "https://cdn.dummyjson.com/product-images/10/1.jpg",
+        "https://cdn.dummyjson.com/product-images/10/2.jpg",
+        "https://cdn.dummyjson.com/product-images/10/3.jpg",
+        "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
       ]
     },
     {
@@ -191,12 +190,12 @@
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/11/1.jpg",
-        "https://i.dummyjson.com/data/products/11/2.jpg",
-        "https://i.dummyjson.com/data/products/11/3.jpg",
-        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/11/1.jpg",
+        "https://cdn.dummyjson.com/product-images/11/2.jpg",
+        "https://cdn.dummyjson.com/product-images/11/3.jpg",
+        "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
       ]
     },
     {
@@ -209,13 +208,13 @@
       "stock": 52,
       "brand": "Royal_Mirage",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/12/1.jpg",
-        "https://i.dummyjson.com/data/products/12/2.jpg",
-        "https://i.dummyjson.com/data/products/12/3.png",
-        "https://i.dummyjson.com/data/products/12/4.jpg",
-        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
       ]
     },
     {
@@ -228,13 +227,13 @@
       "stock": 61,
       "brand": "Fog Scent Xpressio",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/13/1.jpg",
-        "https://i.dummyjson.com/data/products/13/2.png",
-        "https://i.dummyjson.com/data/products/13/3.jpg",
-        "https://i.dummyjson.com/data/products/13/4.jpg",
-        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/13/1.jpg",
+        "https://cdn.dummyjson.com/product-images/13/2.png",
+        "https://cdn.dummyjson.com/product-images/13/3.jpg",
+        "https://cdn.dummyjson.com/product-images/13/4.jpg",
+        "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
       ]
     },
     {
@@ -247,12 +246,12 @@
       "stock": 114,
       "brand": "Al Munakh",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/14/1.jpg",
-        "https://i.dummyjson.com/data/products/14/2.jpg",
-        "https://i.dummyjson.com/data/products/14/3.jpg",
-        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/14/1.jpg",
+        "https://cdn.dummyjson.com/product-images/14/2.jpg",
+        "https://cdn.dummyjson.com/product-images/14/3.jpg",
+        "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
       ]
     },
     {
@@ -265,13 +264,13 @@
       "stock": 105,
       "brand": "Lord - Al-Rehab",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/15/1.jpg",
-        "https://i.dummyjson.com/data/products/15/2.jpg",
-        "https://i.dummyjson.com/data/products/15/3.jpg",
-        "https://i.dummyjson.com/data/products/15/4.jpg",
-        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/15/1.jpg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
       ]
     },
     {
@@ -284,13 +283,13 @@
       "stock": 110,
       "brand": "L'Oreal Paris",
       "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/16/1.png",
-        "https://i.dummyjson.com/data/products/16/2.webp",
-        "https://i.dummyjson.com/data/products/16/3.jpg",
-        "https://i.dummyjson.com/data/products/16/4.jpg",
-        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/16/1.png",
+        "https://cdn.dummyjson.com/product-images/16/2.webp",
+        "https://cdn.dummyjson.com/product-images/16/3.jpg",
+        "https://cdn.dummyjson.com/product-images/16/4.jpg",
+        "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
       ]
     },
     {
@@ -303,12 +302,12 @@
       "stock": 78,
       "brand": "Hemani Tea",
       "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/17/1.jpg",
-        "https://i.dummyjson.com/data/products/17/2.jpg",
-        "https://i.dummyjson.com/data/products/17/3.jpg",
-        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/17/1.jpg",
+        "https://cdn.dummyjson.com/product-images/17/2.jpg",
+        "https://cdn.dummyjson.com/product-images/17/3.jpg",
+        "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
       ]
     },
     {
@@ -321,13 +320,13 @@
       "stock": 88,
       "brand": "Dermive",
       "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/18/1.jpg",
-        "https://i.dummyjson.com/data/products/18/2.jpg",
-        "https://i.dummyjson.com/data/products/18/3.jpg",
-        "https://i.dummyjson.com/data/products/18/4.jpg",
-        "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/18/1.jpg",
+        "https://cdn.dummyjson.com/product-images/18/2.jpg",
+        "https://cdn.dummyjson.com/product-images/18/3.jpg",
+        "https://cdn.dummyjson.com/product-images/18/4.jpg",
+        "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
       ]
     },
     {
@@ -340,12 +339,12 @@
       "stock": 54,
       "brand": "ROREC White Rice",
       "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/19/1.jpg",
-        "https://i.dummyjson.com/data/products/19/2.jpg",
-        "https://i.dummyjson.com/data/products/19/3.png",
-        "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/19/1.jpg",
+        "https://cdn.dummyjson.com/product-images/19/2.jpg",
+        "https://cdn.dummyjson.com/product-images/19/3.png",
+        "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
       ]
     },
     {
@@ -358,13 +357,13 @@
       "stock": 140,
       "brand": "Fair & Clear",
       "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/20/1.jpg",
-        "https://i.dummyjson.com/data/products/20/2.jpg",
-        "https://i.dummyjson.com/data/products/20/3.jpg",
-        "https://i.dummyjson.com/data/products/20/4.jpg",
-        "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/20/1.jpg",
+        "https://cdn.dummyjson.com/product-images/20/2.jpg",
+        "https://cdn.dummyjson.com/product-images/20/3.jpg",
+        "https://cdn.dummyjson.com/product-images/20/4.jpg",
+        "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
       ]
     },
     {
@@ -377,11 +376,11 @@
       "stock": 133,
       "brand": "Saaf & Khaas",
       "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
       "images": [
-        "https://i.dummyjson.com/data/products/21/1.png",
-        "https://i.dummyjson.com/data/products/21/2.jpg",
-        "https://i.dummyjson.com/data/products/21/3.jpg"
+        "https://cdn.dummyjson.com/product-images/21/1.png",
+        "https://cdn.dummyjson.com/product-images/21/2.jpg",
+        "https://cdn.dummyjson.com/product-images/21/3.jpg"
       ]
     },
     {
@@ -394,11 +393,11 @@
       "stock": 146,
       "brand": "Bake Parlor Big",
       "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/22/1.jpg",
-        "https://i.dummyjson.com/data/products/22/2.jpg",
-        "https://i.dummyjson.com/data/products/22/3.jpg"
+        "https://cdn.dummyjson.com/product-images/22/1.jpg",
+        "https://cdn.dummyjson.com/product-images/22/2.jpg",
+        "https://cdn.dummyjson.com/product-images/22/3.jpg"
       ]
     },
     {
@@ -411,13 +410,13 @@
       "stock": 26,
       "brand": "Baking Food Items",
       "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/23/1.jpg",
-        "https://i.dummyjson.com/data/products/23/2.jpg",
-        "https://i.dummyjson.com/data/products/23/3.jpg",
-        "https://i.dummyjson.com/data/products/23/4.jpg",
-        "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/23/1.jpg",
+        "https://cdn.dummyjson.com/product-images/23/2.jpg",
+        "https://cdn.dummyjson.com/product-images/23/3.jpg",
+        "https://cdn.dummyjson.com/product-images/23/4.jpg",
+        "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
       ]
     },
     {
@@ -430,13 +429,13 @@
       "stock": 113,
       "brand": "fauji",
       "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/24/1.jpg",
-        "https://i.dummyjson.com/data/products/24/2.jpg",
-        "https://i.dummyjson.com/data/products/24/3.jpg",
-        "https://i.dummyjson.com/data/products/24/4.jpg",
-        "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/24/1.jpg",
+        "https://cdn.dummyjson.com/product-images/24/2.jpg",
+        "https://cdn.dummyjson.com/product-images/24/3.jpg",
+        "https://cdn.dummyjson.com/product-images/24/4.jpg",
+        "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
       ]
     },
     {
@@ -449,13 +448,13 @@
       "stock": 47,
       "brand": "Dry Rose",
       "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/25/1.png",
-        "https://i.dummyjson.com/data/products/25/2.jpg",
-        "https://i.dummyjson.com/data/products/25/3.png",
-        "https://i.dummyjson.com/data/products/25/4.jpg",
-        "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/25/1.png",
+        "https://cdn.dummyjson.com/product-images/25/2.jpg",
+        "https://cdn.dummyjson.com/product-images/25/3.png",
+        "https://cdn.dummyjson.com/product-images/25/4.jpg",
+        "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
       ]
     },
     {
@@ -468,14 +467,14 @@
       "stock": 131,
       "brand": "Boho Decor",
       "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/26/1.jpg",
-        "https://i.dummyjson.com/data/products/26/2.jpg",
-        "https://i.dummyjson.com/data/products/26/3.jpg",
-        "https://i.dummyjson.com/data/products/26/4.jpg",
-        "https://i.dummyjson.com/data/products/26/5.jpg",
-        "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/26/1.jpg",
+        "https://cdn.dummyjson.com/product-images/26/2.jpg",
+        "https://cdn.dummyjson.com/product-images/26/3.jpg",
+        "https://cdn.dummyjson.com/product-images/26/4.jpg",
+        "https://cdn.dummyjson.com/product-images/26/5.jpg",
+        "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
       ]
     },
     {
@@ -488,13 +487,13 @@
       "stock": 17,
       "brand": "Flying Wooden",
       "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/27/1.jpg",
-        "https://i.dummyjson.com/data/products/27/2.jpg",
-        "https://i.dummyjson.com/data/products/27/3.jpg",
-        "https://i.dummyjson.com/data/products/27/4.jpg",
-        "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/27/1.jpg",
+        "https://cdn.dummyjson.com/product-images/27/2.jpg",
+        "https://cdn.dummyjson.com/product-images/27/3.jpg",
+        "https://cdn.dummyjson.com/product-images/27/4.jpg",
+        "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
       ]
     },
     {
@@ -507,13 +506,13 @@
       "stock": 54,
       "brand": "LED Lights",
       "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/28/1.jpg",
-        "https://i.dummyjson.com/data/products/28/2.jpg",
-        "https://i.dummyjson.com/data/products/28/3.png",
-        "https://i.dummyjson.com/data/products/28/4.jpg",
-        "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/28/1.jpg",
+        "https://cdn.dummyjson.com/product-images/28/2.jpg",
+        "https://cdn.dummyjson.com/product-images/28/3.png",
+        "https://cdn.dummyjson.com/product-images/28/4.jpg",
+        "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
       ]
     },
     {
@@ -526,13 +525,13 @@
       "stock": 7,
       "brand": "luxury palace",
       "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/29/1.jpg",
-        "https://i.dummyjson.com/data/products/29/2.jpg",
-        "https://i.dummyjson.com/data/products/29/3.webp",
-        "https://i.dummyjson.com/data/products/29/4.webp",
-        "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/29/1.jpg",
+        "https://cdn.dummyjson.com/product-images/29/2.jpg",
+        "https://cdn.dummyjson.com/product-images/29/3.webp",
+        "https://cdn.dummyjson.com/product-images/29/4.webp",
+        "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
       ]
     },
     {
@@ -545,12 +544,12 @@
       "stock": 54,
       "brand": "Golden",
       "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/30/1.jpg",
-        "https://i.dummyjson.com/data/products/30/2.jpg",
-        "https://i.dummyjson.com/data/products/30/3.jpg",
-        "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/30/1.jpg",
+        "https://cdn.dummyjson.com/product-images/30/2.jpg",
+        "https://cdn.dummyjson.com/product-images/30/3.jpg",
+        "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
       ]
     },
     {
@@ -563,13 +562,13 @@
       "stock": 140,
       "brand": "Furniture Bed Set",
       "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/31/1.jpg",
-        "https://i.dummyjson.com/data/products/31/2.jpg",
-        "https://i.dummyjson.com/data/products/31/3.jpg",
-        "https://i.dummyjson.com/data/products/31/4.jpg",
-        "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/31/1.jpg",
+        "https://cdn.dummyjson.com/product-images/31/2.jpg",
+        "https://cdn.dummyjson.com/product-images/31/3.jpg",
+        "https://cdn.dummyjson.com/product-images/31/4.jpg",
+        "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg"
       ]
     },
     {
@@ -582,12 +581,12 @@
       "stock": 30,
       "brand": "Ratttan Outdoor",
       "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/32/1.jpg",
-        "https://i.dummyjson.com/data/products/32/2.jpg",
-        "https://i.dummyjson.com/data/products/32/3.jpg",
-        "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/32/1.jpg",
+        "https://cdn.dummyjson.com/product-images/32/2.jpg",
+        "https://cdn.dummyjson.com/product-images/32/3.jpg",
+        "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg"
       ]
     },
     {
@@ -600,13 +599,13 @@
       "stock": 106,
       "brand": "Kitchen Shelf",
       "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/33/1.jpg",
-        "https://i.dummyjson.com/data/products/33/2.jpg",
-        "https://i.dummyjson.com/data/products/33/3.jpg",
-        "https://i.dummyjson.com/data/products/33/4.jpg",
-        "https://i.dummyjson.com/data/products/33/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/33/1.jpg",
+        "https://cdn.dummyjson.com/product-images/33/2.jpg",
+        "https://cdn.dummyjson.com/product-images/33/3.jpg",
+        "https://cdn.dummyjson.com/product-images/33/4.jpg",
+        "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg"
       ]
     },
     {
@@ -619,13 +618,13 @@
       "stock": 136,
       "brand": "Multi Purpose",
       "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/34/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/34/1.jpg",
-        "https://i.dummyjson.com/data/products/34/2.jpg",
-        "https://i.dummyjson.com/data/products/34/3.jpg",
-        "https://i.dummyjson.com/data/products/34/4.jpg",
-        "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/34/1.jpg",
+        "https://cdn.dummyjson.com/product-images/34/2.jpg",
+        "https://cdn.dummyjson.com/product-images/34/3.jpg",
+        "https://cdn.dummyjson.com/product-images/34/4.jpg",
+        "https://cdn.dummyjson.com/product-images/34/thumbnail.jpg"
       ]
     },
     {
@@ -638,13 +637,13 @@
       "stock": 68,
       "brand": "AmnaMart",
       "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/35/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/35/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/35/1.jpg",
-        "https://i.dummyjson.com/data/products/35/2.jpg",
-        "https://i.dummyjson.com/data/products/35/3.jpg",
-        "https://i.dummyjson.com/data/products/35/4.jpg",
-        "https://i.dummyjson.com/data/products/35/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/35/1.jpg",
+        "https://cdn.dummyjson.com/product-images/35/2.jpg",
+        "https://cdn.dummyjson.com/product-images/35/3.jpg",
+        "https://cdn.dummyjson.com/product-images/35/4.jpg",
+        "https://cdn.dummyjson.com/product-images/35/thumbnail.jpg"
       ]
     },
     {
@@ -657,13 +656,13 @@
       "stock": 39,
       "brand": "Professional Wear",
       "category": "tops",
-      "thumbnail": "https://i.dummyjson.com/data/products/36/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/36/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/36/1.jpg",
-        "https://i.dummyjson.com/data/products/36/2.webp",
-        "https://i.dummyjson.com/data/products/36/3.webp",
-        "https://i.dummyjson.com/data/products/36/4.jpg",
-        "https://i.dummyjson.com/data/products/36/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/36/1.jpg",
+        "https://cdn.dummyjson.com/product-images/36/2.webp",
+        "https://cdn.dummyjson.com/product-images/36/3.webp",
+        "https://cdn.dummyjson.com/product-images/36/4.jpg",
+        "https://cdn.dummyjson.com/product-images/36/thumbnail.jpg"
       ]
     },
     {
@@ -676,13 +675,13 @@
       "stock": 107,
       "brand": "Soft Cotton",
       "category": "tops",
-      "thumbnail": "https://i.dummyjson.com/data/products/37/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/37/1.jpg",
-        "https://i.dummyjson.com/data/products/37/2.jpg",
-        "https://i.dummyjson.com/data/products/37/3.jpg",
-        "https://i.dummyjson.com/data/products/37/4.jpg",
-        "https://i.dummyjson.com/data/products/37/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/37/1.jpg",
+        "https://cdn.dummyjson.com/product-images/37/2.jpg",
+        "https://cdn.dummyjson.com/product-images/37/3.jpg",
+        "https://cdn.dummyjson.com/product-images/37/4.jpg",
+        "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg"
       ]
     },
     {
@@ -695,12 +694,12 @@
       "stock": 20,
       "brand": "Soft Cotton",
       "category": "tops",
-      "thumbnail": "https://i.dummyjson.com/data/products/38/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/38/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/38/1.png",
-        "https://i.dummyjson.com/data/products/38/2.jpg",
-        "https://i.dummyjson.com/data/products/38/3.jpg",
-        "https://i.dummyjson.com/data/products/38/4.jpg"
+        "https://cdn.dummyjson.com/product-images/38/1.png",
+        "https://cdn.dummyjson.com/product-images/38/2.jpg",
+        "https://cdn.dummyjson.com/product-images/38/3.jpg",
+        "https://cdn.dummyjson.com/product-images/38/4.jpg"
       ]
     },
     {
@@ -713,13 +712,13 @@
       "stock": 55,
       "brand": "Top Sweater",
       "category": "tops",
-      "thumbnail": "https://i.dummyjson.com/data/products/39/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/39/1.jpg",
-        "https://i.dummyjson.com/data/products/39/2.jpg",
-        "https://i.dummyjson.com/data/products/39/3.jpg",
-        "https://i.dummyjson.com/data/products/39/4.jpg",
-        "https://i.dummyjson.com/data/products/39/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/39/1.jpg",
+        "https://cdn.dummyjson.com/product-images/39/2.jpg",
+        "https://cdn.dummyjson.com/product-images/39/3.jpg",
+        "https://cdn.dummyjson.com/product-images/39/4.jpg",
+        "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg"
       ]
     },
     {
@@ -732,10 +731,10 @@
       "stock": 84,
       "brand": "Top Sweater",
       "category": "tops",
-      "thumbnail": "https://i.dummyjson.com/data/products/40/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/40/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/40/1.jpg",
-        "https://i.dummyjson.com/data/products/40/2.jpg"
+        "https://cdn.dummyjson.com/product-images/40/1.jpg",
+        "https://cdn.dummyjson.com/product-images/40/2.jpg"
       ]
     },
     {
@@ -748,13 +747,13 @@
       "stock": 21,
       "brand": "RED MICKY MOUSE..",
       "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/41/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/41/1.jpg",
-        "https://i.dummyjson.com/data/products/41/2.webp",
-        "https://i.dummyjson.com/data/products/41/3.jpg",
-        "https://i.dummyjson.com/data/products/41/4.jpg",
-        "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/41/1.jpg",
+        "https://cdn.dummyjson.com/product-images/41/2.webp",
+        "https://cdn.dummyjson.com/product-images/41/3.jpg",
+        "https://cdn.dummyjson.com/product-images/41/4.jpg",
+        "https://cdn.dummyjson.com/product-images/41/thumbnail.webp"
       ]
     },
     {
@@ -767,13 +766,13 @@
       "stock": 148,
       "brand": "Digital Printed",
       "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/42/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/42/1.png",
-        "https://i.dummyjson.com/data/products/42/2.png",
-        "https://i.dummyjson.com/data/products/42/3.png",
-        "https://i.dummyjson.com/data/products/42/4.jpg",
-        "https://i.dummyjson.com/data/products/42/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/42/1.png",
+        "https://cdn.dummyjson.com/product-images/42/2.png",
+        "https://cdn.dummyjson.com/product-images/42/3.png",
+        "https://cdn.dummyjson.com/product-images/42/4.jpg",
+        "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg"
       ]
     },
     {
@@ -786,13 +785,13 @@
       "stock": 150,
       "brand": "Ghazi Fabric",
       "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/43/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/43/1.jpg",
-        "https://i.dummyjson.com/data/products/43/2.jpg",
-        "https://i.dummyjson.com/data/products/43/3.jpg",
-        "https://i.dummyjson.com/data/products/43/4.jpg",
-        "https://i.dummyjson.com/data/products/43/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/43/1.jpg",
+        "https://cdn.dummyjson.com/product-images/43/2.jpg",
+        "https://cdn.dummyjson.com/product-images/43/3.jpg",
+        "https://cdn.dummyjson.com/product-images/43/4.jpg",
+        "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg"
       ]
     },
     {
@@ -805,13 +804,13 @@
       "stock": 2,
       "brand": "Ghazi Fabric",
       "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/44/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/44/1.jpg",
-        "https://i.dummyjson.com/data/products/44/2.jpg",
-        "https://i.dummyjson.com/data/products/44/3.jpg",
-        "https://i.dummyjson.com/data/products/44/4.jpg",
-        "https://i.dummyjson.com/data/products/44/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/44/1.jpg",
+        "https://cdn.dummyjson.com/product-images/44/2.jpg",
+        "https://cdn.dummyjson.com/product-images/44/3.jpg",
+        "https://cdn.dummyjson.com/product-images/44/4.jpg",
+        "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg"
       ]
     },
     {
@@ -824,13 +823,13 @@
       "stock": 96,
       "brand": "IELGY",
       "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/45/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/45/1.jpg",
-        "https://i.dummyjson.com/data/products/45/2.webp",
-        "https://i.dummyjson.com/data/products/45/3.jpg",
-        "https://i.dummyjson.com/data/products/45/4.jpg",
-        "https://i.dummyjson.com/data/products/45/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/45/1.jpg",
+        "https://cdn.dummyjson.com/product-images/45/2.webp",
+        "https://cdn.dummyjson.com/product-images/45/3.jpg",
+        "https://cdn.dummyjson.com/product-images/45/4.jpg",
+        "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg"
       ]
     },
     {
@@ -843,13 +842,13 @@
       "stock": 72,
       "brand": "IELGY fashion",
       "category": "womens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/46/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/46/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/46/1.webp",
-        "https://i.dummyjson.com/data/products/46/2.jpg",
-        "https://i.dummyjson.com/data/products/46/3.jpg",
-        "https://i.dummyjson.com/data/products/46/4.jpg",
-        "https://i.dummyjson.com/data/products/46/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/46/1.webp",
+        "https://cdn.dummyjson.com/product-images/46/2.jpg",
+        "https://cdn.dummyjson.com/product-images/46/3.jpg",
+        "https://cdn.dummyjson.com/product-images/46/4.jpg",
+        "https://cdn.dummyjson.com/product-images/46/thumbnail.jpg"
       ]
     },
     {
@@ -862,12 +861,12 @@
       "stock": 50,
       "brand": "Synthetic Leather",
       "category": "womens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/47/thumbnail.jpeg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg",
       "images": [
-        "https://i.dummyjson.com/data/products/47/1.jpg",
-        "https://i.dummyjson.com/data/products/47/2.jpg",
-        "https://i.dummyjson.com/data/products/47/3.jpg",
-        "https://i.dummyjson.com/data/products/47/thumbnail.jpeg"
+        "https://cdn.dummyjson.com/product-images/47/1.jpg",
+        "https://cdn.dummyjson.com/product-images/47/2.jpg",
+        "https://cdn.dummyjson.com/product-images/47/3.jpg",
+        "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg"
       ]
     },
     {
@@ -880,13 +879,13 @@
       "stock": 25,
       "brand": "Sandals Flip Flops",
       "category": "womens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/48/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/48/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/48/1.jpg",
-        "https://i.dummyjson.com/data/products/48/2.jpg",
-        "https://i.dummyjson.com/data/products/48/3.jpg",
-        "https://i.dummyjson.com/data/products/48/4.jpg",
-        "https://i.dummyjson.com/data/products/48/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/48/1.jpg",
+        "https://cdn.dummyjson.com/product-images/48/2.jpg",
+        "https://cdn.dummyjson.com/product-images/48/3.jpg",
+        "https://cdn.dummyjson.com/product-images/48/4.jpg",
+        "https://cdn.dummyjson.com/product-images/48/thumbnail.jpg"
       ]
     },
     {
@@ -899,12 +898,12 @@
       "stock": 107,
       "brand": "Maasai Sandals",
       "category": "womens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/49/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/49/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/49/1.jpg",
-        "https://i.dummyjson.com/data/products/49/2.jpg",
-        "https://i.dummyjson.com/data/products/49/3.webp",
-        "https://i.dummyjson.com/data/products/49/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/49/1.jpg",
+        "https://cdn.dummyjson.com/product-images/49/2.jpg",
+        "https://cdn.dummyjson.com/product-images/49/3.webp",
+        "https://cdn.dummyjson.com/product-images/49/thumbnail.jpg"
       ]
     },
     {
@@ -917,11 +916,11 @@
       "stock": 46,
       "brand": "Arrivals Genuine",
       "category": "womens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/50/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/50/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/50/1.jpeg",
-        "https://i.dummyjson.com/data/products/50/2.jpg",
-        "https://i.dummyjson.com/data/products/50/3.jpg"
+        "https://cdn.dummyjson.com/product-images/50/1.jpeg",
+        "https://cdn.dummyjson.com/product-images/50/2.jpg",
+        "https://cdn.dummyjson.com/product-images/50/3.jpg"
       ]
     },
     {
@@ -934,12 +933,12 @@
       "stock": 132,
       "brand": "Vintage Apparel",
       "category": "mens-shirts",
-      "thumbnail": "https://i.dummyjson.com/data/products/51/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/51/1.png",
-        "https://i.dummyjson.com/data/products/51/2.jpg",
-        "https://i.dummyjson.com/data/products/51/3.jpg",
-        "https://i.dummyjson.com/data/products/51/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/51/1.png",
+        "https://cdn.dummyjson.com/product-images/51/2.jpg",
+        "https://cdn.dummyjson.com/product-images/51/3.jpg",
+        "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg"
       ]
     },
     {
@@ -952,13 +951,13 @@
       "stock": 128,
       "brand": "FREE FIRE",
       "category": "mens-shirts",
-      "thumbnail": "https://i.dummyjson.com/data/products/52/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/52/1.png",
-        "https://i.dummyjson.com/data/products/52/2.png",
-        "https://i.dummyjson.com/data/products/52/3.jpg",
-        "https://i.dummyjson.com/data/products/52/4.jpg",
-        "https://i.dummyjson.com/data/products/52/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/52/1.png",
+        "https://cdn.dummyjson.com/product-images/52/2.png",
+        "https://cdn.dummyjson.com/product-images/52/3.jpg",
+        "https://cdn.dummyjson.com/product-images/52/4.jpg",
+        "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg"
       ]
     },
     {
@@ -971,13 +970,13 @@
       "stock": 6,
       "brand": "Vintage Apparel",
       "category": "mens-shirts",
-      "thumbnail": "https://i.dummyjson.com/data/products/53/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/53/1.webp",
-        "https://i.dummyjson.com/data/products/53/2.jpg",
-        "https://i.dummyjson.com/data/products/53/3.jpg",
-        "https://i.dummyjson.com/data/products/53/4.jpg",
-        "https://i.dummyjson.com/data/products/53/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/53/1.webp",
+        "https://cdn.dummyjson.com/product-images/53/2.jpg",
+        "https://cdn.dummyjson.com/product-images/53/3.jpg",
+        "https://cdn.dummyjson.com/product-images/53/4.jpg",
+        "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg"
       ]
     },
     {
@@ -990,13 +989,13 @@
       "stock": 136,
       "brand": "The Warehouse",
       "category": "mens-shirts",
-      "thumbnail": "https://i.dummyjson.com/data/products/54/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/54/1.jpg",
-        "https://i.dummyjson.com/data/products/54/2.jpg",
-        "https://i.dummyjson.com/data/products/54/3.jpg",
-        "https://i.dummyjson.com/data/products/54/4.jpg",
-        "https://i.dummyjson.com/data/products/54/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/54/1.jpg",
+        "https://cdn.dummyjson.com/product-images/54/2.jpg",
+        "https://cdn.dummyjson.com/product-images/54/3.jpg",
+        "https://cdn.dummyjson.com/product-images/54/4.jpg",
+        "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg"
       ]
     },
     {
@@ -1009,13 +1008,13 @@
       "stock": 122,
       "brand": "The Warehouse",
       "category": "mens-shirts",
-      "thumbnail": "https://i.dummyjson.com/data/products/55/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/55/1.jpg",
-        "https://i.dummyjson.com/data/products/55/2.webp",
-        "https://i.dummyjson.com/data/products/55/3.jpg",
-        "https://i.dummyjson.com/data/products/55/4.jpg",
-        "https://i.dummyjson.com/data/products/55/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/55/1.jpg",
+        "https://cdn.dummyjson.com/product-images/55/2.webp",
+        "https://cdn.dummyjson.com/product-images/55/3.jpg",
+        "https://cdn.dummyjson.com/product-images/55/4.jpg",
+        "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg"
       ]
     },
     {
@@ -1028,14 +1027,14 @@
       "stock": 6,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/56/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/56/1.jpg",
-        "https://i.dummyjson.com/data/products/56/2.jpg",
-        "https://i.dummyjson.com/data/products/56/3.jpg",
-        "https://i.dummyjson.com/data/products/56/4.jpg",
-        "https://i.dummyjson.com/data/products/56/5.jpg",
-        "https://i.dummyjson.com/data/products/56/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/56/1.jpg",
+        "https://cdn.dummyjson.com/product-images/56/2.jpg",
+        "https://cdn.dummyjson.com/product-images/56/3.jpg",
+        "https://cdn.dummyjson.com/product-images/56/4.jpg",
+        "https://cdn.dummyjson.com/product-images/56/5.jpg",
+        "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg"
       ]
     },
     {
@@ -1048,13 +1047,13 @@
       "stock": 20,
       "brand": "Rubber",
       "category": "mens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/57/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/57/1.jpg",
-        "https://i.dummyjson.com/data/products/57/2.jpg",
-        "https://i.dummyjson.com/data/products/57/3.jpg",
-        "https://i.dummyjson.com/data/products/57/4.jpg",
-        "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/57/1.jpg",
+        "https://cdn.dummyjson.com/product-images/57/2.jpg",
+        "https://cdn.dummyjson.com/product-images/57/3.jpg",
+        "https://cdn.dummyjson.com/product-images/57/4.jpg",
+        "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg"
       ]
     },
     {
@@ -1067,13 +1066,13 @@
       "stock": 68,
       "brand": "The Warehouse",
       "category": "mens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/58/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/58/1.jpg",
-        "https://i.dummyjson.com/data/products/58/2.jpg",
-        "https://i.dummyjson.com/data/products/58/3.jpg",
-        "https://i.dummyjson.com/data/products/58/4.jpg",
-        "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/58/1.jpg",
+        "https://cdn.dummyjson.com/product-images/58/2.jpg",
+        "https://cdn.dummyjson.com/product-images/58/3.jpg",
+        "https://cdn.dummyjson.com/product-images/58/4.jpg",
+        "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg"
       ]
     },
     {
@@ -1086,13 +1085,13 @@
       "stock": 137,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/59/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/59/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/59/1.jpg",
-        "https://i.dummyjson.com/data/products/59/2.jpg",
-        "https://i.dummyjson.com/data/products/59/3.jpg",
-        "https://i.dummyjson.com/data/products/59/4.jpg",
-        "https://i.dummyjson.com/data/products/59/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/59/1.jpg",
+        "https://cdn.dummyjson.com/product-images/59/2.jpg",
+        "https://cdn.dummyjson.com/product-images/59/3.jpg",
+        "https://cdn.dummyjson.com/product-images/59/4.jpg",
+        "https://cdn.dummyjson.com/product-images/59/thumbnail.jpg"
       ]
     },
     {
@@ -1105,12 +1104,12 @@
       "stock": 129,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "https://i.dummyjson.com/data/products/60/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/60/1.jpg",
-        "https://i.dummyjson.com/data/products/60/2.jpg",
-        "https://i.dummyjson.com/data/products/60/3.jpg",
-        "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/60/1.jpg",
+        "https://cdn.dummyjson.com/product-images/60/2.jpg",
+        "https://cdn.dummyjson.com/product-images/60/3.jpg",
+        "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg"
       ]
     },
     {
@@ -1123,11 +1122,11 @@
       "stock": 91,
       "brand": "Naviforce",
       "category": "mens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/61/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/61/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/61/1.jpg",
-        "https://i.dummyjson.com/data/products/61/2.png",
-        "https://i.dummyjson.com/data/products/61/3.jpg"
+        "https://cdn.dummyjson.com/product-images/61/1.jpg",
+        "https://cdn.dummyjson.com/product-images/61/2.png",
+        "https://cdn.dummyjson.com/product-images/61/3.jpg"
       ]
     },
     {
@@ -1140,10 +1139,10 @@
       "stock": 95,
       "brand": "SKMEI 9117",
       "category": "mens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/62/1.jpg",
-        "https://i.dummyjson.com/data/products/62/2.jpg"
+        "https://cdn.dummyjson.com/product-images/62/1.jpg",
+        "https://cdn.dummyjson.com/product-images/62/2.jpg"
       ]
     },
     {
@@ -1156,12 +1155,12 @@
       "stock": 142,
       "brand": "SKMEI 9117",
       "category": "mens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/63/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/63/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/63/1.jpg",
-        "https://i.dummyjson.com/data/products/63/2.jpg",
-        "https://i.dummyjson.com/data/products/63/3.png",
-        "https://i.dummyjson.com/data/products/63/4.jpeg"
+        "https://cdn.dummyjson.com/product-images/63/1.jpg",
+        "https://cdn.dummyjson.com/product-images/63/2.jpg",
+        "https://cdn.dummyjson.com/product-images/63/3.png",
+        "https://cdn.dummyjson.com/product-images/63/4.jpeg"
       ]
     },
     {
@@ -1174,12 +1173,12 @@
       "stock": 61,
       "brand": "Strap Skeleton",
       "category": "mens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/64/1.jpg",
-        "https://i.dummyjson.com/data/products/64/2.webp",
-        "https://i.dummyjson.com/data/products/64/3.jpg",
-        "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/64/1.jpg",
+        "https://cdn.dummyjson.com/product-images/64/2.webp",
+        "https://cdn.dummyjson.com/product-images/64/3.jpg",
+        "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg"
       ]
     },
     {
@@ -1192,13 +1191,13 @@
       "stock": 94,
       "brand": "Stainless",
       "category": "mens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/65/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/65/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/65/1.jpg",
-        "https://i.dummyjson.com/data/products/65/2.webp",
-        "https://i.dummyjson.com/data/products/65/3.jpg",
-        "https://i.dummyjson.com/data/products/65/4.webp",
-        "https://i.dummyjson.com/data/products/65/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/65/1.jpg",
+        "https://cdn.dummyjson.com/product-images/65/2.webp",
+        "https://cdn.dummyjson.com/product-images/65/3.jpg",
+        "https://cdn.dummyjson.com/product-images/65/4.webp",
+        "https://cdn.dummyjson.com/product-images/65/thumbnail.webp"
       ]
     },
     {
@@ -1211,13 +1210,13 @@
       "stock": 24,
       "brand": "Eastern Watches",
       "category": "womens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/66/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/66/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/66/1.jpg",
-        "https://i.dummyjson.com/data/products/66/2.jpg",
-        "https://i.dummyjson.com/data/products/66/3.jpg",
-        "https://i.dummyjson.com/data/products/66/4.JPG",
-        "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/66/1.jpg",
+        "https://cdn.dummyjson.com/product-images/66/2.jpg",
+        "https://cdn.dummyjson.com/product-images/66/3.jpg",
+        "https://cdn.dummyjson.com/product-images/66/4.JPG",
+        "https://cdn.dummyjson.com/product-images/66/thumbnail.jpg"
       ]
     },
     {
@@ -1230,13 +1229,13 @@
       "stock": 46,
       "brand": "Eastern Watches",
       "category": "womens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/67/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/67/1.jpg",
-        "https://i.dummyjson.com/data/products/67/2.jpg",
-        "https://i.dummyjson.com/data/products/67/3.jpg",
-        "https://i.dummyjson.com/data/products/67/4.jpg",
-        "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/67/1.jpg",
+        "https://cdn.dummyjson.com/product-images/67/2.jpg",
+        "https://cdn.dummyjson.com/product-images/67/3.jpg",
+        "https://cdn.dummyjson.com/product-images/67/4.jpg",
+        "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg"
       ]
     },
     {
@@ -1249,10 +1248,10 @@
       "stock": 77,
       "brand": "Luxury Digital",
       "category": "womens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/68/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/68/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/68/1.jpg",
-        "https://i.dummyjson.com/data/products/68/2.jpg"
+        "https://cdn.dummyjson.com/product-images/68/1.jpg",
+        "https://cdn.dummyjson.com/product-images/68/2.jpg"
       ]
     },
     {
@@ -1265,13 +1264,13 @@
       "stock": 89,
       "brand": "Watch Pearls",
       "category": "womens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/69/1.jpg",
-        "https://i.dummyjson.com/data/products/69/2.jpg",
-        "https://i.dummyjson.com/data/products/69/3.webp",
-        "https://i.dummyjson.com/data/products/69/4.jpg",
-        "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/69/1.jpg",
+        "https://cdn.dummyjson.com/product-images/69/2.jpg",
+        "https://cdn.dummyjson.com/product-images/69/3.webp",
+        "https://cdn.dummyjson.com/product-images/69/4.jpg",
+        "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg"
       ]
     },
     {
@@ -1284,11 +1283,11 @@
       "stock": 111,
       "brand": "Bracelet",
       "category": "womens-watches",
-      "thumbnail": "https://i.dummyjson.com/data/products/70/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/70/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/70/1.jpg",
-        "https://i.dummyjson.com/data/products/70/2.jpg",
-        "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/70/1.jpg",
+        "https://cdn.dummyjson.com/product-images/70/2.jpg",
+        "https://cdn.dummyjson.com/product-images/70/thumbnail.jpg"
       ]
     },
     {
@@ -1301,12 +1300,12 @@
       "stock": 17,
       "brand": "LouisWill",
       "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/71/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/71/1.jpg",
-        "https://i.dummyjson.com/data/products/71/2.jpg",
-        "https://i.dummyjson.com/data/products/71/3.webp",
-        "https://i.dummyjson.com/data/products/71/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/71/1.jpg",
+        "https://cdn.dummyjson.com/product-images/71/2.jpg",
+        "https://cdn.dummyjson.com/product-images/71/3.webp",
+        "https://cdn.dummyjson.com/product-images/71/thumbnail.jpg"
       ]
     },
     {
@@ -1319,13 +1318,13 @@
       "stock": 27,
       "brand": "LouisWill",
       "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/72/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/72/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/72/1.jpg",
-        "https://i.dummyjson.com/data/products/72/2.png",
-        "https://i.dummyjson.com/data/products/72/3.webp",
-        "https://i.dummyjson.com/data/products/72/4.jpg",
-        "https://i.dummyjson.com/data/products/72/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/72/1.jpg",
+        "https://cdn.dummyjson.com/product-images/72/2.png",
+        "https://cdn.dummyjson.com/product-images/72/3.webp",
+        "https://cdn.dummyjson.com/product-images/72/4.jpg",
+        "https://cdn.dummyjson.com/product-images/72/thumbnail.webp"
       ]
     },
     {
@@ -1338,12 +1337,12 @@
       "stock": 101,
       "brand": "Bracelet",
       "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/73/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/73/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/73/1.jpg",
-        "https://i.dummyjson.com/data/products/73/2.webp",
-        "https://i.dummyjson.com/data/products/73/3.jpg",
-        "https://i.dummyjson.com/data/products/73/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/73/1.jpg",
+        "https://cdn.dummyjson.com/product-images/73/2.webp",
+        "https://cdn.dummyjson.com/product-images/73/3.jpg",
+        "https://cdn.dummyjson.com/product-images/73/thumbnail.jpg"
       ]
     },
     {
@@ -1356,13 +1355,13 @@
       "stock": 43,
       "brand": "Copenhagen Luxe",
       "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/74/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/74/1.jpg",
-        "https://i.dummyjson.com/data/products/74/2.jpg",
-        "https://i.dummyjson.com/data/products/74/3.jpg",
-        "https://i.dummyjson.com/data/products/74/4.jpg",
-        "https://i.dummyjson.com/data/products/74/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/74/1.jpg",
+        "https://cdn.dummyjson.com/product-images/74/2.jpg",
+        "https://cdn.dummyjson.com/product-images/74/3.jpg",
+        "https://cdn.dummyjson.com/product-images/74/4.jpg",
+        "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg"
       ]
     },
     {
@@ -1375,12 +1374,12 @@
       "stock": 13,
       "brand": "Steal Frame",
       "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/75/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/75/1.jpg",
-        "https://i.dummyjson.com/data/products/75/2.jpg",
-        "https://i.dummyjson.com/data/products/75/3.jpg",
-        "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/75/1.jpg",
+        "https://cdn.dummyjson.com/product-images/75/2.jpg",
+        "https://cdn.dummyjson.com/product-images/75/3.jpg",
+        "https://cdn.dummyjson.com/product-images/75/thumbnail.jpg"
       ]
     },
     {
@@ -1393,11 +1392,11 @@
       "stock": 51,
       "brand": "Darojay",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.dummyjson.com/data/products/76/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/76/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/76/1.jpg",
-        "https://i.dummyjson.com/data/products/76/2.jpg",
-        "https://i.dummyjson.com/data/products/76/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/76/1.jpg",
+        "https://cdn.dummyjson.com/product-images/76/2.jpg",
+        "https://cdn.dummyjson.com/product-images/76/thumbnail.jpg"
       ]
     },
     {
@@ -1410,12 +1409,12 @@
       "stock": 149,
       "brand": "Copenhagen Luxe",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.dummyjson.com/data/products/77/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/77/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/77/1.jpg",
-        "https://i.dummyjson.com/data/products/77/2.jpg",
-        "https://i.dummyjson.com/data/products/77/3.jpg",
-        "https://i.dummyjson.com/data/products/77/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/77/1.jpg",
+        "https://cdn.dummyjson.com/product-images/77/2.jpg",
+        "https://cdn.dummyjson.com/product-images/77/3.jpg",
+        "https://cdn.dummyjson.com/product-images/77/thumbnail.jpg"
       ]
     },
     {
@@ -1428,9 +1427,9 @@
       "stock": 9,
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/78/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg"
       ]
     },
     {
@@ -1443,9 +1442,9 @@
       "stock": 16,
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/79/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/79/1.jpg"
+        "https://cdn.dummyjson.com/product-images/79/1.jpg"
       ]
     },
     {
@@ -1458,13 +1457,13 @@
       "stock": 9,
       "brand": "Cuff Butterfly",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.dummyjson.com/data/products/80/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/80/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/80/1.jpg",
-        "https://i.dummyjson.com/data/products/80/2.jpg",
-        "https://i.dummyjson.com/data/products/80/3.png",
-        "https://i.dummyjson.com/data/products/80/4.jpg",
-        "https://i.dummyjson.com/data/products/80/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/80/1.jpg",
+        "https://cdn.dummyjson.com/product-images/80/2.jpg",
+        "https://cdn.dummyjson.com/product-images/80/3.png",
+        "https://cdn.dummyjson.com/product-images/80/4.jpg",
+        "https://cdn.dummyjson.com/product-images/80/thumbnail.jpg"
       ]
     },
     {
@@ -1477,13 +1476,13 @@
       "stock": 78,
       "brand": "Designer Sun Glasses",
       "category": "sunglasses",
-      "thumbnail": "https://i.dummyjson.com/data/products/81/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/81/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/81/1.jpg",
-        "https://i.dummyjson.com/data/products/81/2.jpg",
-        "https://i.dummyjson.com/data/products/81/3.jpg",
-        "https://i.dummyjson.com/data/products/81/4.webp",
-        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/81/1.jpg",
+        "https://cdn.dummyjson.com/product-images/81/2.jpg",
+        "https://cdn.dummyjson.com/product-images/81/3.jpg",
+        "https://cdn.dummyjson.com/product-images/81/4.webp",
+        "https://cdn.dummyjson.com/product-images/81/thumbnail.jpg"
       ]
     },
     {
@@ -1496,13 +1495,13 @@
       "stock": 78,
       "brand": "Designer Sun Glasses",
       "category": "sunglasses",
-      "thumbnail": "https://i.dummyjson.com/data/products/82/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/82/1.jpg",
-        "https://i.dummyjson.com/data/products/82/2.webp",
-        "https://i.dummyjson.com/data/products/82/3.jpg",
-        "https://i.dummyjson.com/data/products/82/4.jpg",
-        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/82/1.jpg",
+        "https://cdn.dummyjson.com/product-images/82/2.webp",
+        "https://cdn.dummyjson.com/product-images/82/3.jpg",
+        "https://cdn.dummyjson.com/product-images/82/4.jpg",
+        "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg"
       ]
     },
     {
@@ -1515,13 +1514,13 @@
       "stock": 115,
       "brand": "mastar watch",
       "category": "sunglasses",
-      "thumbnail": "https://i.dummyjson.com/data/products/83/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/83/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/83/1.jpg",
-        "https://i.dummyjson.com/data/products/83/2.jpg",
-        "https://i.dummyjson.com/data/products/83/3.jpg",
-        "https://i.dummyjson.com/data/products/83/4.jpg",
-        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/83/1.jpg",
+        "https://cdn.dummyjson.com/product-images/83/2.jpg",
+        "https://cdn.dummyjson.com/product-images/83/3.jpg",
+        "https://cdn.dummyjson.com/product-images/83/4.jpg",
+        "https://cdn.dummyjson.com/product-images/83/thumbnail.jpg"
       ]
     },
     {
@@ -1534,11 +1533,11 @@
       "stock": 64,
       "brand": "mastar watch",
       "category": "sunglasses",
-      "thumbnail": "https://i.dummyjson.com/data/products/84/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/84/1.jpg",
-        "https://i.dummyjson.com/data/products/84/2.jpg",
-        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/84/1.jpg",
+        "https://cdn.dummyjson.com/product-images/84/2.jpg",
+        "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg"
       ]
     },
     {
@@ -1551,11 +1550,11 @@
       "stock": 92,
       "brand": "LouisWill",
       "category": "sunglasses",
-      "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/85/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/85/1.jpg",
-        "https://i.dummyjson.com/data/products/85/2.jpg",
-        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/85/1.jpg",
+        "https://cdn.dummyjson.com/product-images/85/2.jpg",
+        "https://cdn.dummyjson.com/product-images/85/thumbnail.jpg"
       ]
     },
     {
@@ -1568,13 +1567,13 @@
       "stock": 22,
       "brand": "Car Aux",
       "category": "automotive",
-      "thumbnail": "https://i.dummyjson.com/data/products/86/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/86/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/86/1.jpg",
-        "https://i.dummyjson.com/data/products/86/2.webp",
-        "https://i.dummyjson.com/data/products/86/3.jpg",
-        "https://i.dummyjson.com/data/products/86/4.jpg",
-        "https://i.dummyjson.com/data/products/86/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/86/1.jpg",
+        "https://cdn.dummyjson.com/product-images/86/2.webp",
+        "https://cdn.dummyjson.com/product-images/86/3.jpg",
+        "https://cdn.dummyjson.com/product-images/86/4.jpg",
+        "https://cdn.dummyjson.com/product-images/86/thumbnail.jpg"
       ]
     },
     {
@@ -1587,13 +1586,13 @@
       "stock": 37,
       "brand": "W1209 DC12V",
       "category": "automotive",
-      "thumbnail": "https://i.dummyjson.com/data/products/87/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/87/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/87/1.jpg",
-        "https://i.dummyjson.com/data/products/87/2.jpg",
-        "https://i.dummyjson.com/data/products/87/3.jpg",
-        "https://i.dummyjson.com/data/products/87/4.jpg",
-        "https://i.dummyjson.com/data/products/87/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/87/1.jpg",
+        "https://cdn.dummyjson.com/product-images/87/2.jpg",
+        "https://cdn.dummyjson.com/product-images/87/3.jpg",
+        "https://cdn.dummyjson.com/product-images/87/4.jpg",
+        "https://cdn.dummyjson.com/product-images/87/thumbnail.jpg"
       ]
     },
     {
@@ -1606,13 +1605,13 @@
       "stock": 42,
       "brand": "TC Reusable",
       "category": "automotive",
-      "thumbnail": "https://i.dummyjson.com/data/products/88/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/88/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/88/1.jpg",
-        "https://i.dummyjson.com/data/products/88/2.jpg",
-        "https://i.dummyjson.com/data/products/88/3.jpg",
-        "https://i.dummyjson.com/data/products/88/4.webp",
-        "https://i.dummyjson.com/data/products/88/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/88/1.jpg",
+        "https://cdn.dummyjson.com/product-images/88/2.jpg",
+        "https://cdn.dummyjson.com/product-images/88/3.jpg",
+        "https://cdn.dummyjson.com/product-images/88/4.webp",
+        "https://cdn.dummyjson.com/product-images/88/thumbnail.jpg"
       ]
     },
     {
@@ -1625,13 +1624,13 @@
       "stock": 79,
       "brand": "TC Reusable",
       "category": "automotive",
-      "thumbnail": "https://i.dummyjson.com/data/products/89/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/89/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/89/1.jpg",
-        "https://i.dummyjson.com/data/products/89/2.jpg",
-        "https://i.dummyjson.com/data/products/89/3.jpg",
-        "https://i.dummyjson.com/data/products/89/4.jpg",
-        "https://i.dummyjson.com/data/products/89/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/89/1.jpg",
+        "https://cdn.dummyjson.com/product-images/89/2.jpg",
+        "https://cdn.dummyjson.com/product-images/89/3.jpg",
+        "https://cdn.dummyjson.com/product-images/89/4.jpg",
+        "https://cdn.dummyjson.com/product-images/89/thumbnail.jpg"
       ]
     },
     {
@@ -1644,13 +1643,13 @@
       "stock": 63,
       "brand": "Neon LED Light",
       "category": "automotive",
-      "thumbnail": "https://i.dummyjson.com/data/products/90/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/90/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/90/1.jpg",
-        "https://i.dummyjson.com/data/products/90/2.jpg",
-        "https://i.dummyjson.com/data/products/90/3.jpg",
-        "https://i.dummyjson.com/data/products/90/4.jpg",
-        "https://i.dummyjson.com/data/products/90/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/90/1.jpg",
+        "https://cdn.dummyjson.com/product-images/90/2.jpg",
+        "https://cdn.dummyjson.com/product-images/90/3.jpg",
+        "https://cdn.dummyjson.com/product-images/90/4.jpg",
+        "https://cdn.dummyjson.com/product-images/90/thumbnail.jpg"
       ]
     },
     {
@@ -1663,13 +1662,13 @@
       "stock": 115,
       "brand": "METRO 70cc Motorcycle - MR70",
       "category": "motorcycle",
-      "thumbnail": "https://i.dummyjson.com/data/products/91/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/91/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/91/1.jpg",
-        "https://i.dummyjson.com/data/products/91/2.jpg",
-        "https://i.dummyjson.com/data/products/91/3.jpg",
-        "https://i.dummyjson.com/data/products/91/4.jpg",
-        "https://i.dummyjson.com/data/products/91/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/91/1.jpg",
+        "https://cdn.dummyjson.com/product-images/91/2.jpg",
+        "https://cdn.dummyjson.com/product-images/91/3.jpg",
+        "https://cdn.dummyjson.com/product-images/91/4.jpg",
+        "https://cdn.dummyjson.com/product-images/91/thumbnail.jpg"
       ]
     },
     {
@@ -1682,12 +1681,12 @@
       "stock": 22,
       "brand": "BRAVE BULL",
       "category": "motorcycle",
-      "thumbnail": "https://i.dummyjson.com/data/products/92/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/92/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/92/1.jpg",
-        "https://i.dummyjson.com/data/products/92/2.jpg",
-        "https://i.dummyjson.com/data/products/92/3.jpg",
-        "https://i.dummyjson.com/data/products/92/4.jpg"
+        "https://cdn.dummyjson.com/product-images/92/1.jpg",
+        "https://cdn.dummyjson.com/product-images/92/2.jpg",
+        "https://cdn.dummyjson.com/product-images/92/3.jpg",
+        "https://cdn.dummyjson.com/product-images/92/4.jpg"
       ]
     },
     {
@@ -1700,13 +1699,13 @@
       "stock": 127,
       "brand": "shock absorber",
       "category": "motorcycle",
-      "thumbnail": "https://i.dummyjson.com/data/products/93/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/93/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/93/1.jpg",
-        "https://i.dummyjson.com/data/products/93/2.jpg",
-        "https://i.dummyjson.com/data/products/93/3.jpg",
-        "https://i.dummyjson.com/data/products/93/4.jpg",
-        "https://i.dummyjson.com/data/products/93/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/93/1.jpg",
+        "https://cdn.dummyjson.com/product-images/93/2.jpg",
+        "https://cdn.dummyjson.com/product-images/93/3.jpg",
+        "https://cdn.dummyjson.com/product-images/93/4.jpg",
+        "https://cdn.dummyjson.com/product-images/93/thumbnail.jpg"
       ]
     },
     {
@@ -1719,12 +1718,12 @@
       "stock": 109,
       "brand": "JIEPOLLY",
       "category": "motorcycle",
-      "thumbnail": "https://i.dummyjson.com/data/products/94/thumbnail.webp",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/94/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/94/1.webp",
-        "https://i.dummyjson.com/data/products/94/2.jpg",
-        "https://i.dummyjson.com/data/products/94/3.jpg",
-        "https://i.dummyjson.com/data/products/94/thumbnail.webp"
+        "https://cdn.dummyjson.com/product-images/94/1.webp",
+        "https://cdn.dummyjson.com/product-images/94/2.jpg",
+        "https://cdn.dummyjson.com/product-images/94/3.jpg",
+        "https://cdn.dummyjson.com/product-images/94/thumbnail.webp"
       ]
     },
     {
@@ -1737,13 +1736,13 @@
       "stock": 144,
       "brand": "Xiangle",
       "category": "motorcycle",
-      "thumbnail": "https://i.dummyjson.com/data/products/95/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/95/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/95/1.jpg",
-        "https://i.dummyjson.com/data/products/95/2.jpg",
-        "https://i.dummyjson.com/data/products/95/3.jpg",
-        "https://i.dummyjson.com/data/products/95/4.jpg",
-        "https://i.dummyjson.com/data/products/95/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/95/1.jpg",
+        "https://cdn.dummyjson.com/product-images/95/2.jpg",
+        "https://cdn.dummyjson.com/product-images/95/3.jpg",
+        "https://cdn.dummyjson.com/product-images/95/4.jpg",
+        "https://cdn.dummyjson.com/product-images/95/thumbnail.jpg"
       ]
     },
     {
@@ -1756,13 +1755,13 @@
       "stock": 96,
       "brand": "lightingbrilliance",
       "category": "lighting",
-      "thumbnail": "https://i.dummyjson.com/data/products/96/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/96/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/96/1.jpg",
-        "https://i.dummyjson.com/data/products/96/2.jpg",
-        "https://i.dummyjson.com/data/products/96/3.jpg",
-        "https://i.dummyjson.com/data/products/96/4.jpg",
-        "https://i.dummyjson.com/data/products/96/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/96/1.jpg",
+        "https://cdn.dummyjson.com/product-images/96/2.jpg",
+        "https://cdn.dummyjson.com/product-images/96/3.jpg",
+        "https://cdn.dummyjson.com/product-images/96/4.jpg",
+        "https://cdn.dummyjson.com/product-images/96/thumbnail.jpg"
       ]
     },
     {
@@ -1775,13 +1774,13 @@
       "stock": 146,
       "brand": "Ifei Home",
       "category": "lighting",
-      "thumbnail": "https://i.dummyjson.com/data/products/97/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/97/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/97/1.jpg",
-        "https://i.dummyjson.com/data/products/97/2.jpg",
-        "https://i.dummyjson.com/data/products/97/3.jpg",
-        "https://i.dummyjson.com/data/products/97/4.webp",
-        "https://i.dummyjson.com/data/products/97/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/97/1.jpg",
+        "https://cdn.dummyjson.com/product-images/97/2.jpg",
+        "https://cdn.dummyjson.com/product-images/97/3.jpg",
+        "https://cdn.dummyjson.com/product-images/97/4.webp",
+        "https://cdn.dummyjson.com/product-images/97/thumbnail.jpg"
       ]
     },
     {
@@ -1794,13 +1793,13 @@
       "stock": 44,
       "brand": "DADAWU",
       "category": "lighting",
-      "thumbnail": "https://i.dummyjson.com/data/products/98/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/98/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/98/1.jpg",
-        "https://i.dummyjson.com/data/products/98/2.jpg",
-        "https://i.dummyjson.com/data/products/98/3.jpg",
-        "https://i.dummyjson.com/data/products/98/4.jpg",
-        "https://i.dummyjson.com/data/products/98/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/98/1.jpg",
+        "https://cdn.dummyjson.com/product-images/98/2.jpg",
+        "https://cdn.dummyjson.com/product-images/98/3.jpg",
+        "https://cdn.dummyjson.com/product-images/98/4.jpg",
+        "https://cdn.dummyjson.com/product-images/98/thumbnail.jpg"
       ]
     },
     {
@@ -1813,13 +1812,13 @@
       "stock": 138,
       "brand": "Ifei Home",
       "category": "lighting",
-      "thumbnail": "https://i.dummyjson.com/data/products/99/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/99/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/99/1.jpg",
-        "https://i.dummyjson.com/data/products/99/2.jpg",
-        "https://i.dummyjson.com/data/products/99/3.jpg",
-        "https://i.dummyjson.com/data/products/99/4.jpg",
-        "https://i.dummyjson.com/data/products/99/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/99/1.jpg",
+        "https://cdn.dummyjson.com/product-images/99/2.jpg",
+        "https://cdn.dummyjson.com/product-images/99/3.jpg",
+        "https://cdn.dummyjson.com/product-images/99/4.jpg",
+        "https://cdn.dummyjson.com/product-images/99/thumbnail.jpg"
       ]
     },
     {
@@ -1832,554 +1831,610 @@
       "stock": 133,
       "brand": "YIOSI",
       "category": "lighting",
-      "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/100/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/100/1.jpg",
-        "https://i.dummyjson.com/data/products/100/2.jpg",
-        "https://i.dummyjson.com/data/products/100/3.jpg",
-        "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
+        "https://cdn.dummyjson.com/product-images/100/1.jpg",
+        "https://cdn.dummyjson.com/product-images/100/2.jpg",
+        "https://cdn.dummyjson.com/product-images/100/3.jpg",
+        "https://cdn.dummyjson.com/product-images/100/thumbnail.jpg"
       ]
-    },
-    {
-      "title": "Mac Book Air ",
-      "description": "Mac Book Air ",
-      "brand": "Apple",
-      "category": "laptops",
-      "price": 1111,
-      "discountPercentage": 11,
-      "stock": 22,
-      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-      "images": [
-        "https://i.dummyjson.com/data/products/6/thumbnail.png",
-        "https://i.dummyjson.com/data/products/6/thumbnail.png",
-        "https://i.dummyjson.com/data/products/6/thumbnail.png",
-        "https://i.dummyjson.com/data/products/6/thumbnail.png"
-      ],
-      "id": 101
-    }
-  ],
-  "brands": [
-    {
-      "value": "Apple",
-      "label": "Apple",
-      "checked": false
-    },
-    {
-      "value": "Samsung",
-      "label": "Samsung",
-      "checked": false
-    },
-    {
-      "value": "OPPO",
-      "label": "OPPO",
-      "checked": false
-    },
-    {
-      "value": "Huawei",
-      "label": "Huawei",
-      "checked": false
-    },
-    {
-      "value": "Microsoft Surface",
-      "label": "Microsoft Surface",
-      "checked": false
-    },
-    {
-      "value": "Infinix",
-      "label": "Infinix",
-      "checked": false
-    },
-    {
-      "value": "HP Pavilion",
-      "label": "HP Pavilion",
-      "checked": false
-    },
-    {
-      "value": "Impression of Acqua Di Gio",
-      "label": "Impression of Acqua Di Gio",
-      "checked": false
-    },
-    {
-      "value": "Royal_Mirage",
-      "label": "Royal_Mirage",
-      "checked": false
-    },
-    {
-      "value": "Fog Scent Xpressio",
-      "label": "Fog Scent Xpressio",
-      "checked": false
-    },
-    {
-      "value": "Al Munakh",
-      "label": "Al Munakh",
-      "checked": false
-    },
-    {
-      "value": "Lord - Al-Rehab",
-      "label": "Lord   Al Rehab",
-      "checked": false
-    },
-    {
-      "value": "L'Oreal Paris",
-      "label": "L'Oreal Paris",
-      "checked": false
-    },
-    {
-      "value": "Hemani Tea",
-      "label": "Hemani Tea",
-      "checked": false
-    },
-    {
-      "value": "Dermive",
-      "label": "Dermive",
-      "checked": false
-    },
-    {
-      "value": "ROREC White Rice",
-      "label": "ROREC White Rice",
-      "checked": false
-    },
-    {
-      "value": "Fair & Clear",
-      "label": "Fair & Clear",
-      "checked": false
-    },
-    {
-      "value": "Saaf & Khaas",
-      "label": "Saaf & Khaas",
-      "checked": false
-    },
-    {
-      "value": "Bake Parlor Big",
-      "label": "Bake Parlor Big",
-      "checked": false
-    },
-    {
-      "value": "Baking Food Items",
-      "label": "Baking Food Items",
-      "checked": false
-    },
-    {
-      "value": "fauji",
-      "label": "fauji",
-      "checked": false
-    },
-    {
-      "value": "Dry Rose",
-      "label": "Dry Rose",
-      "checked": false
-    },
-    {
-      "value": "Boho Decor",
-      "label": "Boho Decor",
-      "checked": false
-    },
-    {
-      "value": "Flying Wooden",
-      "label": "Flying Wooden",
-      "checked": false
-    },
-    {
-      "value": "LED Lights",
-      "label": "LED Lights",
-      "checked": false
-    },
-    {
-      "value": "luxury palace",
-      "label": "luxury palace",
-      "checked": false
-    },
-    {
-      "value": "Golden",
-      "label": "Golden",
-      "checked": false
-    },
-    {
-      "value": "Furniture Bed Set",
-      "label": "Furniture Bed Set",
-      "checked": false
-    },
-    {
-      "value": "Ratttan Outdoor",
-      "label": "Ratttan Outdoor",
-      "checked": false
-    },
-    {
-      "value": "Kitchen Shelf",
-      "label": "Kitchen Shelf",
-      "checked": false
-    },
-    {
-      "value": "Multi Purpose",
-      "label": "Multi Purpose",
-      "checked": false
-    },
-    {
-      "value": "AmnaMart",
-      "label": "AmnaMart",
-      "checked": false
-    },
-    {
-      "value": "Professional Wear",
-      "label": "Professional Wear",
-      "checked": false
-    },
-    {
-      "value": "Soft Cotton",
-      "label": "Soft Cotton",
-      "checked": false
-    },
-    {
-      "value": "Top Sweater",
-      "label": "Top Sweater",
-      "checked": false
-    },
-    {
-      "value": "RED MICKY MOUSE..",
-      "label": "RED MICKY MOUSE..",
-      "checked": false
-    },
-    {
-      "value": "Digital Printed",
-      "label": "Digital Printed",
-      "checked": false
-    },
-    {
-      "value": "Ghazi Fabric",
-      "label": "Ghazi Fabric",
-      "checked": false
-    },
-    {
-      "value": "IELGY",
-      "label": "IELGY",
-      "checked": false
-    },
-    {
-      "value": "IELGY fashion",
-      "label": "IELGY fashion",
-      "checked": false
-    },
-    {
-      "value": "Synthetic Leather",
-      "label": "Synthetic Leather",
-      "checked": false
-    },
-    {
-      "value": "Sandals Flip Flops",
-      "label": "Sandals Flip Flops",
-      "checked": false
-    },
-    {
-      "value": "Maasai Sandals",
-      "label": "Maasai Sandals",
-      "checked": false
-    },
-    {
-      "value": "Arrivals Genuine",
-      "label": "Arrivals Genuine",
-      "checked": false
-    },
-    {
-      "value": "Vintage Apparel",
-      "label": "Vintage Apparel",
-      "checked": false
-    },
-    {
-      "value": "FREE FIRE",
-      "label": "FREE FIRE",
-      "checked": false
-    },
-    {
-      "value": "The Warehouse",
-      "label": "The Warehouse",
-      "checked": false
-    },
-    {
-      "value": "Sneakers",
-      "label": "Sneakers",
-      "checked": false
-    },
-    {
-      "value": "Rubber",
-      "label": "Rubber",
-      "checked": false
-    },
-    {
-      "value": "Naviforce",
-      "label": "Naviforce",
-      "checked": false
-    },
-    {
-      "value": "SKMEI 9117",
-      "label": "SKMEI 9117",
-      "checked": false
-    },
-    {
-      "value": "Strap Skeleton",
-      "label": "Strap Skeleton",
-      "checked": false
-    },
-    {
-      "value": "Stainless",
-      "label": "Stainless",
-      "checked": false
-    },
-    {
-      "value": "Eastern Watches",
-      "label": "Eastern Watches",
-      "checked": false
-    },
-    {
-      "value": "Luxury Digital",
-      "label": "Luxury Digital",
-      "checked": false
-    },
-    {
-      "value": "Watch Pearls",
-      "label": "Watch Pearls",
-      "checked": false
-    },
-    {
-      "value": "Bracelet",
-      "label": "Bracelet",
-      "checked": false
-    },
-    {
-      "value": "LouisWill",
-      "label": "LouisWill",
-      "checked": false
-    },
-    {
-      "value": "Copenhagen Luxe",
-      "label": "Copenhagen Luxe",
-      "checked": false
-    },
-    {
-      "value": "Steal Frame",
-      "label": "Steal Frame",
-      "checked": false
-    },
-    {
-      "value": "Darojay",
-      "label": "Darojay",
-      "checked": false
-    },
-    {
-      "value": "Fashion Jewellery",
-      "label": "Fashion Jewellery",
-      "checked": false
-    },
-    {
-      "value": "Cuff Butterfly",
-      "label": "Cuff Butterfly",
-      "checked": false
-    },
-    {
-      "value": "Designer Sun Glasses",
-      "label": "Designer Sun Glasses",
-      "checked": false
-    },
-    {
-      "value": "mastar watch",
-      "label": "mastar watch",
-      "checked": false
-    },
-    {
-      "value": "Car Aux",
-      "label": "Car Aux",
-      "checked": false
-    },
-    {
-      "value": "W1209 DC12V",
-      "label": "W1209 DC12V",
-      "checked": false
-    },
-    {
-      "value": "TC Reusable",
-      "label": "TC Reusable",
-      "checked": false
-    },
-    {
-      "value": "Neon LED Light",
-      "label": "Neon LED Light",
-      "checked": false
-    },
-    {
-      "value": "METRO 70cc Motorcycle - MR70",
-      "label": "METRO 70cc Motorcycle   MR70",
-      "checked": false
-    },
-    {
-      "value": "BRAVE BULL",
-      "label": "BRAVE BULL",
-      "checked": false
-    },
-    {
-      "value": "shock absorber",
-      "label": "shock absorber",
-      "checked": false
-    },
-    {
-      "value": "JIEPOLLY",
-      "label": "JIEPOLLY",
-      "checked": false
-    },
-    {
-      "value": "Xiangle",
-      "label": "Xiangle",
-      "checked": false
-    },
-    {
-      "value": "lightingbrilliance",
-      "label": "lightingbrilliance",
-      "checked": false
-    },
-    {
-      "value": "Ifei Home",
-      "label": "Ifei Home",
-      "checked": false
-    },
-    {
-      "value": "DADAWU",
-      "label": "DADAWU",
-      "checked": false
-    },
-    {
-      "value": "YIOSI",
-      "label": "YIOSI",
-      "checked": false
     }
   ],
   "categories": [
     {
       "value": "smartphones",
       "label": "smartphones",
-      "checked": false
+      "checked": false,
+      "id": "4a5a"
     },
     {
       "value": "laptops",
       "label": "laptops",
-      "checked": false
+      "checked": false,
+      "id": "e252"
     },
     {
       "value": "fragrances",
       "label": "fragrances",
-      "checked": false
+      "checked": false,
+      "id": "2b9e"
     },
     {
       "value": "skincare",
       "label": "skincare",
-      "checked": false
+      "checked": false,
+      "id": "ce64"
     },
     {
       "value": "groceries",
       "label": "groceries",
-      "checked": false
+      "checked": false,
+      "id": "c718"
     },
     {
       "value": "home-decoration",
       "label": "home decoration",
-      "checked": false
+      "checked": false,
+      "id": "e0c9"
     },
     {
       "value": "furniture",
       "label": "furniture",
-      "checked": false
+      "checked": false,
+      "id": "c7b7"
     },
     {
       "value": "tops",
       "label": "tops",
-      "checked": false
+      "checked": false,
+      "id": "7161"
     },
     {
       "value": "womens-dresses",
       "label": "womens dresses",
-      "checked": false
+      "checked": false,
+      "id": "6f28"
     },
     {
       "value": "womens-shoes",
       "label": "womens shoes",
-      "checked": false
+      "checked": false,
+      "id": "b0a7"
     },
     {
       "value": "mens-shirts",
       "label": "mens shirts",
-      "checked": false
+      "checked": false,
+      "id": "fe7f"
     },
     {
       "value": "mens-shoes",
       "label": "mens shoes",
-      "checked": false
+      "checked": false,
+      "id": "ba14"
     },
     {
       "value": "mens-watches",
       "label": "mens watches",
-      "checked": false
+      "checked": false,
+      "id": "bba1"
     },
     {
       "value": "womens-watches",
       "label": "womens watches",
-      "checked": false
+      "checked": false,
+      "id": "8c30"
     },
     {
       "value": "womens-bags",
       "label": "womens bags",
-      "checked": false
+      "checked": false,
+      "id": "54bd"
     },
     {
       "value": "womens-jewellery",
       "label": "womens jewellery",
-      "checked": false
+      "checked": false,
+      "id": "4f03"
     },
     {
       "value": "sunglasses",
       "label": "sunglasses",
-      "checked": false
+      "checked": false,
+      "id": "5d66"
     },
     {
       "value": "automotive",
       "label": "automotive",
-      "checked": false
+      "checked": false,
+      "id": "2de0"
     },
     {
       "value": "motorcycle",
       "label": "motorcycle",
-      "checked": false
+      "checked": false,
+      "id": "78f6"
     },
     {
       "value": "lighting",
       "label": "lighting",
-      "checked": false
+      "checked": false,
+      "id": "9730"
+    }
+  ],
+  "brands": [
+    {
+      "value": "Apple",
+      "label": "Apple",
+      "checked": false,
+      "id": "ddfb"
+    },
+    {
+      "value": "Samsung",
+      "label": "Samsung",
+      "checked": false,
+      "id": "6a23"
+    },
+    {
+      "value": "OPPO",
+      "label": "OPPO",
+      "checked": false,
+      "id": "c49f"
+    },
+    {
+      "value": "Huawei",
+      "label": "Huawei",
+      "checked": false,
+      "id": "702f"
+    },
+    {
+      "value": "Microsoft Surface",
+      "label": "Microsoft Surface",
+      "checked": false,
+      "id": "cde0"
+    },
+    {
+      "value": "Infinix",
+      "label": "Infinix",
+      "checked": false,
+      "id": "504c"
+    },
+    {
+      "value": "HP Pavilion",
+      "label": "HP Pavilion",
+      "checked": false,
+      "id": "90a0"
+    },
+    {
+      "value": "Impression of Acqua Di Gio",
+      "label": "Impression of Acqua Di Gio",
+      "checked": false,
+      "id": "f4d2"
+    },
+    {
+      "value": "Royal_Mirage",
+      "label": "Royal_Mirage",
+      "checked": false,
+      "id": "b0ad"
+    },
+    {
+      "value": "Fog Scent Xpressio",
+      "label": "Fog Scent Xpressio",
+      "checked": false,
+      "id": "6127"
+    },
+    {
+      "value": "Al Munakh",
+      "label": "Al Munakh",
+      "checked": false,
+      "id": "0216"
+    },
+    {
+      "value": "Lord - Al-Rehab",
+      "label": "Lord   Al Rehab",
+      "checked": false,
+      "id": "7f65"
+    },
+    {
+      "value": "L'Oreal Paris",
+      "label": "L'Oreal Paris",
+      "checked": false,
+      "id": "356b"
+    },
+    {
+      "value": "Hemani Tea",
+      "label": "Hemani Tea",
+      "checked": false,
+      "id": "1372"
+    },
+    {
+      "value": "Dermive",
+      "label": "Dermive",
+      "checked": false,
+      "id": "83c5"
+    },
+    {
+      "value": "ROREC White Rice",
+      "label": "ROREC White Rice",
+      "checked": false,
+      "id": "ecf6"
+    },
+    {
+      "value": "Fair & Clear",
+      "label": "Fair & Clear",
+      "checked": false,
+      "id": "4f75"
+    },
+    {
+      "value": "Saaf & Khaas",
+      "label": "Saaf & Khaas",
+      "checked": false,
+      "id": "3043"
+    },
+    {
+      "value": "Bake Parlor Big",
+      "label": "Bake Parlor Big",
+      "checked": false,
+      "id": "d5fe"
+    },
+    {
+      "value": "Baking Food Items",
+      "label": "Baking Food Items",
+      "checked": false,
+      "id": "4ace"
+    },
+    {
+      "value": "fauji",
+      "label": "fauji",
+      "checked": false,
+      "id": "1c46"
+    },
+    {
+      "value": "Dry Rose",
+      "label": "Dry Rose",
+      "checked": false,
+      "id": "2b1e"
+    },
+    {
+      "value": "Boho Decor",
+      "label": "Boho Decor",
+      "checked": false,
+      "id": "8751"
+    },
+    {
+      "value": "Flying Wooden",
+      "label": "Flying Wooden",
+      "checked": false,
+      "id": "cc5e"
+    },
+    {
+      "value": "LED Lights",
+      "label": "LED Lights",
+      "checked": false,
+      "id": "16ca"
+    },
+    {
+      "value": "luxury palace",
+      "label": "luxury palace",
+      "checked": false,
+      "id": "db07"
+    },
+    {
+      "value": "Golden",
+      "label": "Golden",
+      "checked": false,
+      "id": "ba71"
+    },
+    {
+      "value": "Furniture Bed Set",
+      "label": "Furniture Bed Set",
+      "checked": false,
+      "id": "49a1"
+    },
+    {
+      "value": "Ratttan Outdoor",
+      "label": "Ratttan Outdoor",
+      "checked": false,
+      "id": "1427"
+    },
+    {
+      "value": "Kitchen Shelf",
+      "label": "Kitchen Shelf",
+      "checked": false,
+      "id": "c8a9"
+    },
+    {
+      "value": "Multi Purpose",
+      "label": "Multi Purpose",
+      "checked": false,
+      "id": "d240"
+    },
+    {
+      "value": "AmnaMart",
+      "label": "AmnaMart",
+      "checked": false,
+      "id": "0339"
+    },
+    {
+      "value": "Professional Wear",
+      "label": "Professional Wear",
+      "checked": false,
+      "id": "67c2"
+    },
+    {
+      "value": "Soft Cotton",
+      "label": "Soft Cotton",
+      "checked": false,
+      "id": "10f7"
+    },
+    {
+      "value": "Top Sweater",
+      "label": "Top Sweater",
+      "checked": false,
+      "id": "4c5e"
+    },
+    {
+      "value": "RED MICKY MOUSE..",
+      "label": "RED MICKY MOUSE..",
+      "checked": false,
+      "id": "749b"
+    },
+    {
+      "value": "Digital Printed",
+      "label": "Digital Printed",
+      "checked": false,
+      "id": "6d14"
+    },
+    {
+      "value": "Ghazi Fabric",
+      "label": "Ghazi Fabric",
+      "checked": false,
+      "id": "239e"
+    },
+    {
+      "value": "IELGY",
+      "label": "IELGY",
+      "checked": false,
+      "id": "bab1"
+    },
+    {
+      "value": "IELGY fashion",
+      "label": "IELGY fashion",
+      "checked": false,
+      "id": "fb43"
+    },
+    {
+      "value": "Synthetic Leather",
+      "label": "Synthetic Leather",
+      "checked": false,
+      "id": "4a32"
+    },
+    {
+      "value": "Sandals Flip Flops",
+      "label": "Sandals Flip Flops",
+      "checked": false,
+      "id": "7752"
+    },
+    {
+      "value": "Maasai Sandals",
+      "label": "Maasai Sandals",
+      "checked": false,
+      "id": "ff04"
+    },
+    {
+      "value": "Arrivals Genuine",
+      "label": "Arrivals Genuine",
+      "checked": false,
+      "id": "3e26"
+    },
+    {
+      "value": "Vintage Apparel",
+      "label": "Vintage Apparel",
+      "checked": false,
+      "id": "1837"
+    },
+    {
+      "value": "FREE FIRE",
+      "label": "FREE FIRE",
+      "checked": false,
+      "id": "9359"
+    },
+    {
+      "value": "The Warehouse",
+      "label": "The Warehouse",
+      "checked": false,
+      "id": "8cd6"
+    },
+    {
+      "value": "Sneakers",
+      "label": "Sneakers",
+      "checked": false,
+      "id": "7298"
+    },
+    {
+      "value": "Rubber",
+      "label": "Rubber",
+      "checked": false,
+      "id": "9bd4"
+    },
+    {
+      "value": "Naviforce",
+      "label": "Naviforce",
+      "checked": false,
+      "id": "1664"
+    },
+    {
+      "value": "SKMEI 9117",
+      "label": "SKMEI 9117",
+      "checked": false,
+      "id": "6364"
+    },
+    {
+      "value": "Strap Skeleton",
+      "label": "Strap Skeleton",
+      "checked": false,
+      "id": "7b5c"
+    },
+    {
+      "value": "Stainless",
+      "label": "Stainless",
+      "checked": false,
+      "id": "d29c"
+    },
+    {
+      "value": "Eastern Watches",
+      "label": "Eastern Watches",
+      "checked": false,
+      "id": "1dcc"
+    },
+    {
+      "value": "Luxury Digital",
+      "label": "Luxury Digital",
+      "checked": false,
+      "id": "4ff8"
+    },
+    {
+      "value": "Watch Pearls",
+      "label": "Watch Pearls",
+      "checked": false,
+      "id": "9d4d"
+    },
+    {
+      "value": "Bracelet",
+      "label": "Bracelet",
+      "checked": false,
+      "id": "62c1"
+    },
+    {
+      "value": "LouisWill",
+      "label": "LouisWill",
+      "checked": false,
+      "id": "a5fa"
+    },
+    {
+      "value": "Copenhagen Luxe",
+      "label": "Copenhagen Luxe",
+      "checked": false,
+      "id": "9f5e"
+    },
+    {
+      "value": "Steal Frame",
+      "label": "Steal Frame",
+      "checked": false,
+      "id": "56f1"
+    },
+    {
+      "value": "Darojay",
+      "label": "Darojay",
+      "checked": false,
+      "id": "f2ae"
+    },
+    {
+      "value": "Fashion Jewellery",
+      "label": "Fashion Jewellery",
+      "checked": false,
+      "id": "cf3d"
+    },
+    {
+      "value": "Cuff Butterfly",
+      "label": "Cuff Butterfly",
+      "checked": false,
+      "id": "4e28"
+    },
+    {
+      "value": "Designer Sun Glasses",
+      "label": "Designer Sun Glasses",
+      "checked": false,
+      "id": "d886"
+    },
+    {
+      "value": "mastar watch",
+      "label": "mastar watch",
+      "checked": false,
+      "id": "3bc3"
+    },
+    {
+      "value": "Car Aux",
+      "label": "Car Aux",
+      "checked": false,
+      "id": "5f5a"
+    },
+    {
+      "value": "W1209 DC12V",
+      "label": "W1209 DC12V",
+      "checked": false,
+      "id": "f23e"
+    },
+    {
+      "value": "TC Reusable",
+      "label": "TC Reusable",
+      "checked": false,
+      "id": "0b23"
+    },
+    {
+      "value": "Neon LED Light",
+      "label": "Neon LED Light",
+      "checked": false,
+      "id": "fac2"
+    },
+    {
+      "value": "METRO 70cc Motorcycle - MR70",
+      "label": "METRO 70cc Motorcycle   MR70",
+      "checked": false,
+      "id": "462f"
+    },
+    {
+      "value": "BRAVE BULL",
+      "label": "BRAVE BULL",
+      "checked": false,
+      "id": "6cc6"
+    },
+    {
+      "value": "shock absorber",
+      "label": "shock absorber",
+      "checked": false,
+      "id": "6776"
+    },
+    {
+      "value": "JIEPOLLY",
+      "label": "JIEPOLLY",
+      "checked": false,
+      "id": "b14a"
+    },
+    {
+      "value": "Xiangle",
+      "label": "Xiangle",
+      "checked": false,
+      "id": "47bf"
+    },
+    {
+      "value": "lightingbrilliance",
+      "label": "lightingbrilliance",
+      "checked": false,
+      "id": "6b63"
+    },
+    {
+      "value": "Ifei Home",
+      "label": "Ifei Home",
+      "checked": false,
+      "id": "35c7"
+    },
+    {
+      "value": "DADAWU",
+      "label": "DADAWU",
+      "checked": false,
+      "id": "70f6"
+    },
+    {
+      "value": "YIOSI",
+      "label": "YIOSI",
+      "checked": false,
+      "id": "a3bb"
     }
   ],
   "users": [
     {
-      "email": "test@gmail.com",
-      "password": "Qwerty123",
-      "role": "user",
-      "addresses": [
-        {
-          "name": "Abhishek Rathore",
-          "email": "test@gmail.com",
-          "phone": "1234567788",
-          "street": "11th Main",
-          "city": "Banaglore",
-          "state": "Karnataka",
-          "pinCode": "560034"
-        },
-        {
-          "name": "Jack Morris",
-          "email": "jack@gmail.com",
-          "city": "Delhi",
-          "state": "Delhi",
-          "pinCode": "110006",
-          "phone": "12312331232",
-          "street": "12th cross"
-        }
-      ],
-      "id": 1
-    },
-    {
+      "id": "9648",
       "email": "demo@gmail.com",
       "password": "Qwerty123",
       "role": "user",
@@ -2387,245 +2442,74 @@
         {
           "name": "Demo user",
           "email": "demo@gmail.com",
-          "phone": "1234567788",
-          "street": "11th Main",
-          "city": "Mumbai",
-          "state": "Maharastra",
-          "pinCode": "220001"
+          "city": "Dadri, gautam buddh nagar",
+          "state": "UTTAR PRADESH",
+          "pinCode": "203207",
+          "phone": "1122334455",
+          "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
+        },
+        {
+          "name": "Demo user 2",
+          "email": "demo@gmail.com",
+          "phone": "1122334455",
+          "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+          "city": "Dadri, gautam buddh nagar",
+          "state": "UTTAR PRADESH",
+          "pinCode": "203207"
         }
-      ],
-      "id": 2
+      ]
     },
     {
+      "id": "ede1",
+      "email": "test@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": []
+    },
+    {
+      "id": "052d",
+      "email": "demo2@gmail.com",
+      "password": "Qwerty123",
+      "addresses": []
+    },
+    {
+      "id": "8d87",
       "email": "admin@gmail.com",
       "password": "Qwerty123",
       "addresses": [],
-      "role": "admin",
-      "id": 3
+      "role": "admin"
     }
   ],
   "cart": [
     {
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
+      "id": "c8e1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
+        "https://cdn.dummyjson.com/product-images/1/1.jpg",
+        "https://cdn.dummyjson.com/product-images/1/2.jpg",
+        "https://cdn.dummyjson.com/product-images/1/3.jpg",
+        "https://cdn.dummyjson.com/product-images/1/4.jpg",
+        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
       ],
-      "productId": 5,
+      "productId": "1",
       "quantity": 1,
-      "user": 2,
-      "id": 1
+      "user": "9648"
     }
   ],
   "orders": [
     {
+      "id": "50fa",
       "items": [
         {
-          "title": "iPhone X",
-          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 899,
-          "discountPercentage": 17.94,
-          "rating": 4.44,
-          "stock": 34,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-          ],
-          "quantity": 2,
-          "user": 1,
-          "id": 6
-        }
-      ],
-      "totalAmount": 1798,
-      "totalItems": 2,
-      "user": {
-        "email": "test@gmail.com",
-        "password": "Qwerty123",
-        "addresses": [
-          {
-            "name": "Abhishek R",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
-          },
-          {
-            "name": "Abhishek R",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
-          }
-        ],
-        "id": 1
-      },
-      "paymentMethod": "cash",
-      "selectedAddress": {
-        "name": "Abhishek R",
-        "email": "test@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Banaglore",
-        "state": "Karnataka",
-        "pinCode": "560034"
-      },
-      "status": "dispatched",
-      "id": 1
-    },
-    {
-      "items": [
-        {
-          "title": "iPhone X",
-          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 899,
-          "discountPercentage": 17.94,
-          "rating": 4.44,
-          "stock": 34,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-          ],
-          "quantity": 2,
-          "user": 1,
-          "id": 6
-        }
-      ],
-      "totalAmount": 1798,
-      "totalItems": 2,
-      "user": {
-        "email": "test@gmail.com",
-        "password": "Qwerty123",
-        "addresses": [
-          {
-            "name": "Abhishek R",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
-          },
-          {
-            "name": "Abhishek R",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
-          }
-        ],
-        "id": 1
-      },
-      "paymentMethod": "cash",
-      "selectedAddress": {
-        "name": "Abhishek R",
-        "email": "test@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Banaglore",
-        "state": "Karnataka",
-        "pinCode": "560034"
-      },
-      "status": "delivered",
-      "id": 2
-    },
-    {
-      "items": [
-        {
-          "id": 3,
-          "title": "Samsung Universe 9",
-          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-          "price": 1249,
-          "discountPercentage": 15.46,
-          "rating": 4.09,
-          "stock": 36,
-          "brand": "Samsung",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/3/1.jpg"
-          ],
-          "quantity": 2,
-          "user": 2
-        },
-        {
-          "id": 5,
-          "title": "Huawei P30",
-          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-          "price": 499,
-          "discountPercentage": 10.58,
-          "rating": 4.09,
-          "stock": 32,
-          "brand": "Huawei",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/5/1.jpg",
-            "https://i.dummyjson.com/data/products/5/2.jpg",
-            "https://i.dummyjson.com/data/products/5/3.jpg"
-          ],
-          "quantity": 1,
-          "user": 2
-        }
-      ],
-      "totalAmount": 2997,
-      "totalItems": 3,
-      "user": {
-        "email": "demo@gmail.com",
-        "password": "Qwerty123",
-        "addresses": [
-          {
-            "name": "Demo user",
-            "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
-          }
-        ],
-        "id": 2
-      },
-      "paymentMethod": "card",
-      "selectedAddress": {
-        "name": "Demo user",
-        "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
-      },
-      "status": "cancelled",
-      "id": 3
-    },
-    {
-      "items": [
-        {
+          "id": "9563",
           "title": "iPhone 9",
           "description": "An apple mobile which is nothing like apple",
           "price": 549,
@@ -2634,62 +2518,163 @@
           "stock": 94,
           "brand": "Apple",
           "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/1/1.jpg",
-            "https://i.dummyjson.com/data/products/1/2.jpg",
-            "https://i.dummyjson.com/data/products/1/3.jpg",
-            "https://i.dummyjson.com/data/products/1/4.jpg",
-            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "https://cdn.dummyjson.com/product-images/1/2.jpg",
+            "https://cdn.dummyjson.com/product-images/1/3.jpg",
+            "https://cdn.dummyjson.com/product-images/1/4.jpg",
+            "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
           ],
-          "quantity": 2,
-          "user": 1,
-          "id": 1
+          "quantity": 1,
+          "user": "9648"
         }
       ],
-      "totalAmount": 1098,
-      "totalItems": 2,
+      "totalAmount": 549,
+      "totalItems": 1,
       "user": {
-        "email": "test@gmail.com",
+        "id": "9648",
+        "email": "demo@gmail.com",
         "password": "Qwerty123",
         "addresses": [
           {
-            "name": "Abhishek R",
+            "name": "ROHAN KUMAR",
             "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
-          },
-          {
-            "name": "Abhishek R",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 1
+        ]
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "Abhishek R",
+        "name": "ROHAN KUMAR",
         "email": "test@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Banaglore",
-        "state": "Karnataka",
-        "pinCode": "560034"
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
       },
-      "status": "pending",
-      "id": 4
+      "status": "delivered"
     },
     {
+      "id": "c577",
       "items": [
         {
+          "id": "3ba3",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "https://cdn.dummyjson.com/product-images/1/2.jpg",
+            "https://cdn.dummyjson.com/product-images/1/3.jpg",
+            "https://cdn.dummyjson.com/product-images/1/4.jpg",
+            "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": "9648"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "9648",
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "ROHAN KUMAR",
+            "email": "test@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "ROHAN KUMAR",
+        "email": "test@gmail.com",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "ccef",
+      "items": [
+        {
+          "id": "2d85",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/1/1.jpg",
+            "https://cdn.dummyjson.com/product-images/1/2.jpg",
+            "https://cdn.dummyjson.com/product-images/1/3.jpg",
+            "https://cdn.dummyjson.com/product-images/1/4.jpg",
+            "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": "9648"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "9648",
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "ROHAN KUMAR",
+            "email": "test@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "ROHAN KUMAR",
+        "email": "test@gmail.com",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "5b2a",
+      "items": [
+        {
+          "id": "dfcc",
           "title": "iPhone X",
           "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
           "price": 899,
@@ -2698,164 +2683,149 @@
           "stock": 34,
           "brand": "Apple",
           "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
           ],
           "quantity": 1,
-          "user": 1,
-          "id": 1
+          "user": "9648"
         }
       ],
       "totalAmount": 899,
       "totalItems": 1,
       "user": {
-        "email": "test@gmail.com",
+        "id": "9648",
+        "email": "demo@gmail.com",
         "password": "Qwerty123",
         "addresses": [
           {
-            "name": "Abhishek Rathore",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
           },
           {
-            "name": "Jack Morris",
-            "email": "jack@gmail.com",
-            "city": "Delhi",
-            "state": "Delhi",
-            "pinCode": "110006",
-            "phone": "12312331232",
-            "street": "12th cross"
+            "name": "Demo user 2",
+            "email": "demo@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 1
+        ]
       },
-      "paymentMethod": "cash",
+      "paymentMethod": "card",
       "selectedAddress": {
-        "name": "Abhishek Rathore",
-        "email": "test@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Banaglore",
-        "state": "Karnataka",
-        "pinCode": "560034"
+        "name": "Demo user 2",
+        "email": "demo@gmail.com",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
       },
-      "status": "pending",
-      "id": 5
+      "status": "pending"
     },
     {
+      "id": "7560",
       "items": [
         {
+          "id": "d061",
           "title": "iPhone X",
           "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 1111,
+          "price": 899,
           "discountPercentage": 17.94,
-          "rating": 0,
+          "rating": 4.44,
           "stock": 34,
           "brand": "Apple",
           "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
           ],
-          "quantity": 2,
-          "user": 1,
-          "id": 1
+          "quantity": 1,
+          "user": "9648"
         }
       ],
-      "totalAmount": 1824,
-      "totalItems": 2,
+      "totalAmount": 738,
+      "totalItems": 1,
       "user": {
-        "email": "test@gmail.com",
+        "id": "9648",
+        "email": "demo@gmail.com",
         "password": "Qwerty123",
         "role": "user",
         "addresses": [
           {
-            "name": "Abhishek Rathore",
-            "email": "test@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Banaglore",
-            "state": "Karnataka",
-            "pinCode": "560034"
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
           },
           {
-            "name": "Jack Morris",
-            "email": "jack@gmail.com",
-            "city": "Delhi",
-            "state": "Delhi",
-            "pinCode": "110006",
-            "phone": "12312331232",
-            "street": "12th cross"
+            "name": "Demo user 2",
+            "email": "demo@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 1
+        ]
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "Jack Morris",
-        "email": "jack@gmail.com",
-        "city": "Delhi",
-        "state": "Delhi",
-        "pinCode": "110006",
-        "phone": "12312331232",
-        "street": "12th cross"
+        "name": "Demo user 2",
+        "email": "demo@gmail.com",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
       },
-      "status": "pending",
-      "id": 6
+      "status": "pending"
     },
     {
+      "id": "d2eb",
       "items": [
         {
-          "title": "Samsung Universe 9",
-          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-          "price": 1249,
-          "discountPercentage": 15.46,
-          "rating": 4.09,
-          "stock": 36,
-          "brand": "Samsung",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "id": "6854",
+          "title": "Infinix INBOOK",
+          "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+          "price": 1099,
+          "discountPercentage": 11.83,
+          "rating": 4.54,
+          "stock": 96,
+          "brand": "Infinix",
+          "category": "laptops",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/3/1.jpg"
+            "https://cdn.dummyjson.com/product-images/9/1.jpg",
+            "https://cdn.dummyjson.com/product-images/9/2.png",
+            "https://cdn.dummyjson.com/product-images/9/3.png",
+            "https://cdn.dummyjson.com/product-images/9/4.jpg",
+            "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
           ],
           "quantity": 1,
-          "user": 2,
-          "id": 1
-        },
-        {
-          "title": "Huawei P30",
-          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-          "price": 499,
-          "discountPercentage": 10.58,
-          "rating": 4.09,
-          "stock": 32,
-          "brand": "Huawei",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/5/1.jpg",
-            "https://i.dummyjson.com/data/products/5/2.jpg",
-            "https://i.dummyjson.com/data/products/5/3.jpg"
-          ],
-          "quantity": 1,
-          "user": 2,
-          "id": 2
+          "user": "9648"
         }
       ],
-      "totalAmount": 1502,
-      "totalItems": 2,
+      "totalAmount": 969,
+      "totalItems": 1,
       "user": {
+        "id": "9648",
         "email": "demo@gmail.com",
         "password": "Qwerty123",
         "role": "user",
@@ -2863,70 +2833,63 @@
           {
             "name": "Demo user",
             "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
+          },
+          {
+            "name": "Demo user 2",
+            "email": "demo@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 2
+        ]
       },
-      "paymentMethod": "cash",
+      "paymentMethod": "card",
       "selectedAddress": {
         "name": "Demo user",
         "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
       },
-      "status": "pending",
-      "id": 7
+      "status": "pending"
     },
     {
+      "id": "c493",
       "items": [
         {
-          "title": "Samsung Universe 9",
-          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-          "price": 1249,
-          "discountPercentage": 15.46,
-          "rating": 4.09,
-          "stock": 36,
-          "brand": "Samsung",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "id": "3191",
+          "title": "HP Pavilion 15-DK1056WM",
+          "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+          "price": 1099,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "laptops",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
           "images": [
-            "https://i.dummyjson.com/data/products/3/1.jpg"
+            "https://cdn.dummyjson.com/product-images/10/1.jpg",
+            "https://cdn.dummyjson.com/product-images/10/2.jpg",
+            "https://cdn.dummyjson.com/product-images/10/3.jpg",
+            "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
           ],
           "quantity": 1,
-          "user": 2,
-          "id": 1
-        },
-        {
-          "title": "Huawei P30",
-          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-          "price": 499,
-          "discountPercentage": 10.58,
-          "rating": 4.09,
-          "stock": 32,
-          "brand": "Huawei",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/5/1.jpg",
-            "https://i.dummyjson.com/data/products/5/2.jpg",
-            "https://i.dummyjson.com/data/products/5/3.jpg"
-          ],
-          "quantity": 1,
-          "user": 2,
-          "id": 2
+          "user": "9648"
         }
       ],
-      "totalAmount": 1502,
-      "totalItems": 2,
+      "totalAmount": 1031,
+      "totalItems": 1,
       "user": {
+        "id": "9648",
         "email": "demo@gmail.com",
         "password": "Qwerty123",
         "role": "user",
@@ -2934,54 +2897,64 @@
           {
             "name": "Demo user",
             "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
+          },
+          {
+            "name": "Demo user 2",
+            "email": "demo@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 2
+        ]
       },
       "paymentMethod": "cash",
       "selectedAddress": {
         "name": "Demo user",
         "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207",
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
       },
-      "status": "pending",
-      "id": 8
+      "status": "pending"
     },
     {
+      "id": "85bf",
       "items": [
         {
-          "title": "MacBook Pro",
-          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-          "price": 1999,
-          "discountPercentage": 11.02,
-          "rating": 0,
-          "stock": 83,
+          "id": "9832",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
           "brand": "Apple",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "category": "smartphones",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/6/1.png",
-            "https://i.dummyjson.com/data/products/6/2.jpg",
-            "https://i.dummyjson.com/data/products/6/3.png",
-            "https://i.dummyjson.com/data/products/6/thumbnail.png"
+            "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
           ],
+          "productId": "2",
           "quantity": 1,
-          "user": 2,
-          "id": 1
+          "user": "9648"
         }
       ],
-      "totalAmount": 1779,
+      "totalAmount": 738,
       "totalItems": 1,
       "user": {
+        "id": "9648",
         "email": "demo@gmail.com",
         "password": "Qwerty123",
         "role": "user",
@@ -2989,139 +2962,34 @@
           {
             "name": "Demo user",
             "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P."
+          },
+          {
+            "name": "Demo user 2",
+            "email": "demo@gmail.com",
+            "phone": "1122334455",
+            "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+            "city": "Dadri, gautam buddh nagar",
+            "state": "UTTAR PRADESH",
+            "pinCode": "203207"
           }
-        ],
-        "id": 2
+        ]
       },
       "paymentMethod": "card",
       "selectedAddress": {
-        "name": "Demo user",
+        "name": "Demo user 2",
         "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
+        "phone": "1122334455",
+        "street": "Gali no. 2,preet vihar colony railway road, dadri, gautam buddh nagar, U.P.",
+        "city": "Dadri, gautam buddh nagar",
+        "state": "UTTAR PRADESH",
+        "pinCode": "203207"
       },
-      "status": "pending",
-      "id": 9
-    },
-    {
-      "items": [
-        {
-          "title": "Microsoft Surface Laptop 4",
-          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-          "price": 1499,
-          "discountPercentage": 10.23,
-          "rating": 4.43,
-          "stock": 68,
-          "brand": "Microsoft Surface",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/8/1.jpg",
-            "https://i.dummyjson.com/data/products/8/2.jpg",
-            "https://i.dummyjson.com/data/products/8/3.jpg",
-            "https://i.dummyjson.com/data/products/8/4.jpg",
-            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-          ],
-          "quantity": 1,
-          "user": 2,
-          "id": 1
-        }
-      ],
-      "totalAmount": 1346,
-      "totalItems": 1,
-      "user": {
-        "email": "demo@gmail.com",
-        "password": "Qwerty123",
-        "role": "user",
-        "addresses": [
-          {
-            "name": "Demo user",
-            "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
-          }
-        ],
-        "id": 2
-      },
-      "paymentMethod": "card",
-      "selectedAddress": {
-        "name": "Demo user",
-        "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
-      },
-      "status": "pending",
-      "id": 10
-    },
-    {
-      "items": [
-        {
-          "title": "Microsoft Surface Laptop 4",
-          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-          "price": 1499,
-          "discountPercentage": 10.23,
-          "rating": 4.43,
-          "stock": 68,
-          "brand": "Microsoft Surface",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-          "images": [
-            "https://i.dummyjson.com/data/products/8/1.jpg",
-            "https://i.dummyjson.com/data/products/8/2.jpg",
-            "https://i.dummyjson.com/data/products/8/3.jpg",
-            "https://i.dummyjson.com/data/products/8/4.jpg",
-            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-          ],
-          "quantity": 2,
-          "user": 2,
-          "id": 1
-        }
-      ],
-      "totalAmount": 2692,
-      "totalItems": 2,
-      "user": {
-        "email": "demo@gmail.com",
-        "password": "Qwerty123",
-        "role": "user",
-        "addresses": [
-          {
-            "name": "Demo user",
-            "email": "demo@gmail.com",
-            "phone": "1234567788",
-            "street": "11th Main",
-            "city": "Mumbai",
-            "state": "Maharastra",
-            "pinCode": "220001"
-          }
-        ],
-        "id": 2
-      },
-      "paymentMethod": "cash",
-      "selectedAddress": {
-        "name": "Demo user",
-        "email": "demo@gmail.com",
-        "phone": "1234567788",
-        "street": "11th Main",
-        "city": "Mumbai",
-        "state": "Maharastra",
-        "pinCode": "220001"
-      },
-      "status": "pending",
-      "id": 11
+      "status": "pending"
     }
   ]
 }

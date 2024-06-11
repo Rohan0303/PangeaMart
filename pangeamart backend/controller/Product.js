@@ -1,18 +1,18 @@
-const { Product } = require("../model/Product.js");
-//product creation api
+const { Product } = require('../model/Product');
+
 exports.createProduct = async (req, res) => {
-  //this product we have get from api body
+  // this product we have to get from API body
   const product = new Product(req.body);
+  product.discountPrice = Math.round(product.price*(1-product.discountPercentage/100))
   try {
-    const docs = await product.save();
-    res.status(201).json(docs);
+    const doc = await product.save();
+    res.status(201).json(doc);
   } catch (err) {
     res.status(400).json(err);
   }
 };
-//fetch all product api
+
 exports.fetchAllProducts = async (req, res) => {
-  //here we  need all query string
   // filter = {"category":["smartphone","laptops"]}
   // sort = {_sort:"price",_order="desc"}
   // pagination = {_page:1,_limit=10}
@@ -24,18 +24,18 @@ exports.fetchAllProducts = async (req, res) => {
 
   let query = Product.find(condition);
   let totalProductsQuery = Product.find(condition);
-  
+  console.log(req.query.category);
+
   if (req.query.category) {
-    query = query.find({ category: req.query.category });
+    query = query.find({ category: {$in:req.query.category.split(',')} });
     totalProductsQuery = totalProductsQuery.find({
-      category: req.query.category,
+      category: {$in:req.query.category.split(',')},
     });
   }
   if (req.query.brand) {
-    query = query.find({ brand: req.query.brand });
-    totalProductsQuery = totalProductsQuery.find({ brand: req.query.brand });
+    query = query.find({ brand: {$in:req.query.brand.split(',')} });
+    totalProductsQuery = totalProductsQuery.find({ brand: {$in:req.query.brand.split(',') }});
   }
-  //TODO : How to get sort on discounted price not on actual price
   if (req.query._sort && req.query._order) {
     query = query.sort({ [req.query._sort]: req.query._order });
   }
@@ -51,7 +51,7 @@ exports.fetchAllProducts = async (req, res) => {
 
   try {
     const docs = await query.exec();
-    res.set("X-Total-Count", totalDocs);
+    res.set('X-Total-Count', totalDocs);
     res.status(200).json(docs);
   } catch (err) {
     res.status(400).json(err);
@@ -71,10 +71,11 @@ exports.fetchProductById = async (req, res) => {
 
 exports.updateProduct = async (req, res) => {
   const { id } = req.params;
-
   try {
     const product = await Product.findByIdAndUpdate(id, req.body, {new:true});
-    res.status(200).json(product);
+    product.discountPrice = Math.round(product.price*(1-product.discountPercentage/100))
+    const updatedProduct = await product.save()
+    res.status(200).json(updatedProduct);
   } catch (err) {
     res.status(400).json(err);
   }
